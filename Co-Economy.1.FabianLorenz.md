@@ -65,3 +65,21 @@ Es ist ein Mindestmaß an Anerkennung des Rechts der Nutzer erforderlich, ihre e
 Wenn beispielsweise eine Gemeinressource eng mit einem Ressourcensystem verbunden ist, sind Governance-Strukturen auf mehreren Ebenen miteinander verknüpft.  
 
 Diese kreative Zusammenarbeit bietet einem Unternehmen diverse Vorteile, beispielsweise sind Produktionsprognosen, die kollaborativ im Unternehmen erstellt worden meist genauer, als wenn sie nur von einer verantwortlichen Person erstellt wurden.  
+Auch eine Zusammenarbeit mit dem Kunden und seine Einbeziehung in die Unternehmensprozesse tritt immer häufiger auf. Durch die wie bereits beschriebene Möglichkeit von Kunden beispielsweise durch Soziale Netzwerke viel stärker als früher einen Einfluss auf Unternehmen zu haben, ist es notwendig auf die Wünsche des Kunden einzugehen und ihn bei der Produktentwicklung zu beteiligen. Dies hat den entscheidenden Vorteil, dass das Vertrauensverhältnis zwischen Produzent und Konsument gefördert wird.  
+
+Um diese strukturelle Kollaboration zwischen Unternehmen und Kunde zu einem Erfolg zu führen, existiert ein fünfstufiges Konzept. Der Kunde wird dabei nicht nur in einen Teil des Entstehungsprozesses miteingebunden, sondern in alle Entscheidungsprozesse der Firma, vom Brainstorming über mögliche neue Produkte über Co-Creation der Werbung, bis hin zum Gestalten des Preises.  
+
+1. Die Unternehmenskultur  
+Es ist darauf zu achten das die geplante Kollaboration zu der bestehenden Unternehmenskultur passt. Das Unternehmen soll also nicht Kollaborationen angepasst werden, sondern genau andersherum. Veränderungen von firmeninternen Strukturen erfolgen langsam. Wurde eine neue Idee beispielsweise bisher von einem Mitarbeiter entwickelt, sollte dieser nicht ersetzt werden, sondern die Kollaboration sollte darauf abzielen diesen Mitarbeiter zu unterstützen. Nach mehreren erfolgreichen Kollaborationen wird sich die Kultur des Unternehmens nach und nach ändern und eine tiefergreifende Kollaborationen mit dem Kunden können angegangen werden.   
+2. Die richtigen Menschen  
+Nicht jeder beliebige Kunde ist für einen Kollaborationsprozess geeignet. Es sollten Kunden gefunden werden, die eine hohe Eigenmotivation haben und bestenfalls ein bestimmtes Fachwissen vorweisen und Erfahrung mit den relevanten Produkten/Dienstleistungen haben, da diese letztendlich auch die Kunden sind, die diese Produkte/Dienstleistungen kaufen/nutzen.  
+3. Die aktive Einbeziehung der Führungsebene  
+Top-Manager sollten Kollaborationsprozesse nicht nur unterstützen, sondern auch aktiv miteinbezogen werden, da ansonsten die Gefahr besteht, dass Führungskräfte Entscheidungen treffen ohne auf die Ergebnisse der Kollaboration zu achten.   
+4. Grenze zwischen interner und externer Kommunikation  
+Diese Grenze gilt es zu durchbrechen. Wenn die Kollaboration nur innerhalb der Firma stattfindet, wird niemals die maximale Reichweite erzielt werden.  
+5. Das Ausmaß abschätzen  
+Es ist notwendig, das Ausmaß der erforderlichen Arbeitsaufwände im Vorfeld abzuschätzen, sowohl firmenintern, als auch extern, um das finanzielle Risiko zu verringern. Dafür ist es erforderlich die Ziele zu definieren, Beteiligten mit einzubinden und Erwartungen zu definieren. Im Zuge der Kollaboration mit der Community ist auch die Ernennung eines Community-Managers ratsam, der für die Kommunikation zwischen Unternehmen und Community zuständig ist.  
+
+## Kapitel 4 Change  
+
+Lorem
