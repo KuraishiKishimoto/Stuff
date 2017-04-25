@@ -26,7 +26,10 @@ Ein weiterer Wandel existiert bei den Business-Modellen. Der Wertschöpfungsproz
 1. Niedrige Grenzkosten  
 Virtuelle Güter sind meist ohne weitere Kosten reproduzierbar.   Zwar ist die Entwicklung von beispielsweise Online-Plattformen teuer, die Kosten einen neuen Nutzer zu integrieren tendieren jedoch gegen Null. Zudem übernehmen Nutzer auch selbst Aufgaben, wie beispielsweise das Melden von illegalen Inhalten oder als Moderator. Somit fallen auch in diesen Bereichen keine Kosten an. Ein weiterer Schritt ist, dass Nutzer sogar selbst die Inhalte liefern, wie beispielsweise bei Youtube. Die Kosten für das Unternehmen belaufen sich somit nur noch auf Entwicklung und Betrieb der Plattform.
 2. Netzwerkeffekte  
-hh  
+Der Wert eines Netzwerks orientiert sich meist an der Anzahl seiner Nutzer. Je mehr Nutzer ein Netzwerk hat, desto attraktiver ist es für eventuelle neue Interessenten. Mit jedem neuen Mitglied steigt somit der Wert des Netzwerks. Neben der Anzahl ist jedoch auch die Qualität der Teilnehmer eines Netzwerks relevant. Je mehr ein spezieller Teilnehmer des Netzwerks interessant für andere Nutzer ist, desto höher steigt auch hier der Wert des Netzwerks. (Beispiel: Größere/Bekanntere Youtuber)
 3. "Long-Tail"-Effekte  
-hh  
+Als Long-Tail Effekt wird bezeichnet, dass Anbieter im Internet ihren Gewinn nicht durch ein bestimmtes Kernprodukt erwirtschaften, sondern durch eine Vielzahl von verschiedenen Nischenprodukten.  
+
+## Kapitel 2 Collaboration  
+
 
