@@ -34,3 +34,34 @@ Als Long-Tail Effekt wird bezeichnet, dass Anbieter im Internet ihren Gewinn nic
 
 Durch Zusammenarbeit lassen sich Ziele erreichen, die von einem einzelnen nur äußerst schwer oder gar nicht erreicht werden können. Durch die Digitalisierung sind verschiedene neue Möglichkeiten der Zusammenarbeit entstanden, so kann beispielsweise gleichzeitig von mehreren weit entfernten Orten aus an einem Projekt gearbeitet werden. Es sind eine eine Vielzahl von Plattformen und Tools entstanden um diese Kollaboration umzusetzen oder zu nutzen, wie beispielsweise Online-Projektmanagement-Plattformen, von Nutzern gepflegte Wikis, Instant-Messaging-Systeme und Services wie Dropbox und Google-Docs. Durch diese Möglichkeiten der (Interdisziplinären-)Kollaborationen eröffnen sich neue Innovationschancen.  
 
+Damit eine soziale Zusammenarbeit im Kreativbereich auch zu einem Erfolg führt müssen folgende Aspekte enthalten sein:  
+
+1. Dialogisch  
+Die Fähigkeit zuzuhören, ohne dass das Gegenüber etwas sagt; zu erspüren, was die Intention des anderen ist, wenn Sprache nicht mehr effizient ist.  
+2. Konjunktivische Rede  
+Diese Form der Kommunikation lässt Raum für Mehrdeutlichkeiten und Interpretationen. Dadurch entsteht Raum für Geselligkeit und alle Meinungen/Standpunkte können miteinbezogen werden.  
+3. Informeller Rahmen  
+Improvisation statt Verfolgen eines von vornherein vorgegebenen Zieles, um den Prozess der Kreativität nicht einzuschränken.  
+4. Empathie statt Sympathie  
+Sympathie ist das Identifizieren mit uns ähnlichen Individuen, Empathie das Verstehen anderer Personen. Sympathie kann bei der Zusammenarbeit hinderlich wirken, Empathie, also der Versuch Kollegen die anders sind als man selbst, zu verstehen, ist jedoch Horizont erweiternd. 
+
+Des Weiteren existieren Regeln, die dazu dienen sollen geteilte Ressourcen zu managen:  
+
+1. Grenzen zwischen den Nutzern und Ressourcengrenzen  
+Es existieren klare, lokal akzeptierte Grenzen zwischen 'legitimen Nutzern' und 'Nichtnutzungsberechtigten', sowie klare Grenzen zwischen einem spezifischen Gemeinressourcensystem und einem größeren sozio-ökologischen System.  
+2. Übereinstimmung mit lokalen Gegebenheiten (Kohärenz)  
+Die Regeln für eine Aneignung und Reproduktion einer Ressource entsprechen den örtlichen Gegebenheiten, sie überfordert die Menschen nicht und sind aufeinander abgestimmt, das heißt sie müssen aufeinander bezogen sein. Die Verteilung der Kosten erfolgt proportional zur Verteilung des Nutzens.  
+3. Gemeinschaftliche Entscheidungsfindung  
+Teilnehmer haben Mitspracherecht an den Entscheidungen zur Bestimmung und Änderung der Nutzungsregeln eines Systems.  
+4. Monitoring der Nutzer und Ressourcen  
+Die Überwachung der Ressourcen wird entweder von den Nutzern selbst übernommen oder muss mit den Nutzern geteilt werden.  
+5. Abgestufte Sanktionen  
+Die Bestrafung von Regelverletzungen beginnt auf niedrigem Niveau und verschärft sich, wenn der Nutzer die Regel mehrmals verletzt hat. Alle Sanktionen sind dabei glaubhaft und nachvollziehbar.     
+6. Konfliktlösungsmechanismen  
+Konfliktlösungsmechanismen müssen gleichzeitig schnell, direkt und günstig sein. Es gibt lokale Räume die für die Lösung von Konflikten genutzt werden und zwischen Nutzern sowie Nutzern und Institutionen.  
+7. Anerkennung  
+Es ist ein Mindestmaß an Anerkennung des Rechts der Nutzer erforderlich, ihre eigenen Regeln bestimmen zu können.  
+8. Eingebette Instutionen  
+Wenn beispielsweise eine Gemeinressource eng mit einem Ressourcensystem verbunden ist, sind Governance-Strukturen auf mehreren Ebenen miteinander verknüpft.  
+
+Diese kreative Zusammenarbeit bietet einem Unternehmen diverse Vorteile, beispielsweise sind Produktionsprognosen, die kollaborativ im Unternehmen erstellt worden meist genauer, als wenn sie nur von einer verantwortlichen Person erstellt wurden.  
