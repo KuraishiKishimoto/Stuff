@@ -7,7 +7,7 @@ Springer Gabler (2014)
 Zusammenfassung von: Fabian Lorenz  
 ## Einleitung
 In der heutigen Zeit ist es dank der Digitalisierung für viele kleine Unternehmen einfacher, sich auf dem Markt gegen große Wettbewerber durchzusetzen.  
-Hauptgrund dafür sind Agilität, Flexibilität und Kreativität, die von großen Unternehmen, hervorgerufen durch ihre starre Strukturen, häufig nicht so gelebt werden können, wie es bei kleinen Firmen der Fall ist.  
+Hauptgrund dafür sind Agilität, Flexibilität und Kreativität, die von großen Unternehmen, hervorgerufen durch ihre starren Strukturen, häufig nicht so gelebt werden können, wie es bei kleinen Firmen der Fall ist.  
 Um den Anschluss nicht zu verlieren, ist es also notwendig, diesen Strukturellen Wandel durchzuführen und die Vorteile dieser neuen "netzbasierten Wertschöpfung" zu nutzen.
 ## Kapitel 1 Connectedness  
 Die wichtigste Ursache für diesen Wandel ist dabei das Internet.  
@@ -32,4 +32,5 @@ Als Long-Tail Effekt wird bezeichnet, dass Anbieter im Internet ihren Gewinn nic
 
 ## Kapitel 2 Collaboration  
 
+Durch Zusammenarbeit lassen sich Ziele erreichen, die von einem einzelnen nur äußerst schwer oder gar nicht erreicht werden können. Durch die Digitalisierung sind verschiedene neue Möglichkeiten der Zusammenarbeit entstanden, so kann beispielsweise gleichzeitig von mehreren weit entfernten Orten aus an einem Projekt gearbeitet werden. Es sind eine eine Vielzahl von Plattformen und Tools entstanden um diese Kollaboration umzusetzen oder zu nutzen, wie beispielsweise Online-Projektmanagement-Plattformen, von Nutzern gepflegte Wikis, Instant-Messaging-Systeme und Services wie Dropbox und Google-Docs. Durch diese Möglichkeiten der (Interdisziplinären-)Kollaborationen eröffnen sich neue Innovationschancen.  
 
