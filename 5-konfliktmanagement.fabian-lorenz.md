@@ -17,9 +17,23 @@ Konflikte lassen sich in zwei Formen einteilen: heiße und kalte Konflikte. Hei�
 
 Konflikte im kalten Zustand sind schwer zu erkennen und zu lösen. Es empfiehlt sich daher zu warten bis der Konflikt wieder in eine heiße Phase übergeht, eventuell ihn sogar selbst anzuheizen. Im heißen Zustand ist der Konflikt dann wieder zugänglicher, man kann ihn angehen und letztendlich lösen. 
 
-###Konfliktarten
-
-
+### Konfliktarten
+* Sachkonflikt: Unterschiedliche Meinungen treffen im Rahmen einer sachlich geführten Diskussion aufeinander.
+    * Ursache: Wegen fehlender Informationen, unterschiedlicher Kenntnisse und Erfahrungen der beteiligten Personen oder durch Missverständnisse werden unterschiedliche Wege beim Lösen eines Problems gesehen.
+    * Beispiel: Designentscheidungen können häufig wegen fehlender Informationen nur auf Basis der eigenen Erfahrung getroffen werden. Dabei kann es beispielsweise bei der Auswahl eines geeigneten Patterns zu einem Sachkonflikt kommen.
+    * Lösungsweg: Das Informationsdefizit muss abgebaut werden. Es müssen Informationen gesammelt werden und alle Beteiligten auf den gleichen Stand gebracht werden. Dazu werden offene Fragen gestellt und aktives Zuhören genutzt. Häufig ist auch das prototypische Ausprobieren ein erfolgreicher Lösungsweg im IT-Bereich. Somit können konkrete Informationen schnell beschafft werden und alle Szenarien, die auf ungenauen Informationen beruhen, können eliminiert werden.
+* Beziehungskonflikt: Die Beziehung zwischen zwei Personen ist gestört und führt zu einer einseitigen oder gegenseitigen Abwertung.
+    * Ursache: Vorurteile, Ängste, mangelnder Respekt und nicht ausreichende Wertschätzung.
+    * Beispiel: Das teilweise immer noch existierende Vorurteil gegenüber Frauen und Technik oder Vorurteile aufgrund von Altersunterschieden.
+    * Lösungsweg: Aufbau von gegenseitigem Respekt, Wertschätzung und Verständnis.
+* Interessenkonflikt: Dem Verhalten der Konfliktpartner liegen unterschiedliche Interessen zugrunde, die nicht direkt geäußert werden, sondern hinter Positionen versteckt sind.
+    * Ursache: Es bestehen unterschiedliche Interessen, Diese werden jedoch nicht offen geäußert, sondern vordergründige Positionen werden ausgetauscht.
+    * Beispiel: Bei Gehaltsverhandlungen werden immer nur Forderung und Gegenposition genannt und wiederholt: "Ich will 300€ mehr im Monat!" "Ich kann ihnen aber nur 50€ bieten!".
+    * Lösungsweg: Über das Erkennen und Verstehen der tatsächlichen Interessen wird versucht ein Lösungsweg zu finden. Eine offenen und vertrauensvolle Umgebung kann dabei hilfreich sein, diese Interessen zu erkennen. Im Beispiel der Gehaltsverhandlung muss erkannt werden, warum der Arbeitnehmer mehr Gehalt möchte, beispielsweise vielleicht weil er mehr Geld für seinen Lebensunterhalt braucht, oder weil seine Kollegen mehr verdienen und er sich ungerecht behandelt fühlt. Beim Arbeitgeber können begrenzte Mittel eine Rolle spielen oder vielleicht hängt seine Prämie daran, möglichst niedrige Gehaltsabschlüsse zu erzielen. Sind die tatsächlichen Interessen identifiziert, kann ein Interessenausgleich verhandelt werden.
+* Wertekonflikt: Als Wert wird bezeichnet, was eine einzelne Person als wichtig oder lohnend einzuschätzen gelernt hat. Dies können Lebensprinzipien sein, oder Ziele die man erreichen möchte. Ein Wert ist also recht unabhängig von konkreten Situationen oder anderen Personen. Auch ändern sich die Werte einer Person oder einer Gesellschaft mit der Zeit.
+    * Ursache: Unterschiedliche, dauerhafte Wertvorstellungen treffen aufeinander
+    * Beispiel: Zwei Entwickler teilen sich einen Arbeitsplatz, z.B. weil sie beide halbtags arbeiten. Der eine möchte den Schreibtisch stets frei und aufgeräumt haben, der andere möchte seine Arbeitsmittel verteilt und stets zugreifbar auf der Schreibtischfläche verstreut haben.
+    * Lösungsweg: Die gegenseitigen Wertvorstellungen müssen von der Beteiligten offengelegt und anerkannt werden. Ziel ist dabei die Unterschiedlichkeit zu erkennen und zu akzeptieren. Da Wertvorstellungen nicht kurzfristig verändert werden können, ist es nur möglich Regeln aufzustellen, die von den Konfliktparteien  akzeptiert und eingehalten werden müssen, sodass eine Zusammenarbeit weiterhin erfolgen kann. Ist dies nicht dauerhaft möglich, können nur noch andere Wege gefunden werden, in denen dieser Wertkonflikt nicht mehr auftritt.
 
 ## Konfliktmuster rechtzeitig erkennen
 
