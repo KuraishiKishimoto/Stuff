@@ -12,7 +12,7 @@ Innerhalb von IT-Projekten kommt es sehr häufig zu Konflikten. Einschränkende 
 
 ### Heiße und kalte Konflikte  
 Konflikte lassen sich in zwei Formen einteilen: heiße und kalte Konflikte. Heiße Konflikte sind laut, die Konfliktparteien sind (über-)motiviert und suchen die direkte Konfrontation untereinander. Kalte Konflikte sind dagegen unterschwellig, es herrscht Frustration und Enttäuschung und der direkte Kontakt wird von den Konfliktparteien gemieden.  
-![Heißer und Kalter Konflikt](/assets/heiß_kalt_konflikt.png)
+![Heißer und Kalter Konflikt](/assets/heiß_kalt_konflikt.png)  
 *Die Temperatur eines Konflikts verändert sich im Laufe der Zeit. Von außen sichtbar ist er dabei nur oberhalb der gestrichelten Linie, wenn er auflodert.*  
 
 Konflikte im kalten Zustand sind schwer zu erkennen und zu lösen. Es empfiehlt sich daher zu warten bis der Konflikt wieder in eine heiße Phase übergeht, eventuell ihn sogar selbst anzuheizen. Im heißen Zustand ist der Konflikt dann wieder zugänglicher, man kann ihn angehen und letztendlich lösen. 
