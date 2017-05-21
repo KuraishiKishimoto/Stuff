@@ -66,29 +66,29 @@ Bei einem Systemkonflikt wirken Konflikte von außerhalb der eigentlichen Gruppe
 ###Konfliktdynamik
 Konflikte können selbst in den bestmöglich funktionierenden Gruppen entstehen. Dies muss jedoch nicht negatives sein, denn Konflikte können dabei helfen die Entwicklung weiterzubringen und kreative Lösungen hervorzubringen. Dafür müssen sie jedoch konstruktiv sein. Zu viel Kooperation und damit ein nicht vorhandenes Konfliktpotential führt zu einfallslosen Lösungen. Zu viel Konkurrenz führt dazu, dass jeder nur noch für sich selbst arbeitet und somit nie das bestmögliche Potential der Gruppe ausgeschöpft werden kann.
 
-![Heißer und Kalter Konflikt](/assets/Konstruktive_Konflikte.png)  
+![Konstruktive Konflikte](/assets/Konstruktive_Konflikte.png)  
 *Konstruktive Konflikte entstehen aus dem Wechselspiel von Kooperation und Konkurrenz der beteiligten Personen*  
 
 Es muss also ein angemessenes, konstruktives Konfliktniveau erreicht werden, um die bestmöglichen Lösungen zu finden. Dafür ist es notwendig, dass die Zusammenarbeit mit gegenseitiger Wertschätzung und einem gemeinsamen Zielkonsens stattfindet.
 
-![Heißer und Kalter Konflikt](/assets/konfliktniveau.png)  
+![Konfliktniveau](/assets/konfliktniveau.png)  
 *Konflikte sind notwendig, um uns zu hinterfragen und Lösungen zu optimieren. Die Kunst ist es, dafür ein angemessenes Konfliktniveau zu finden*
 
 #### Grundsätzliche Konfliktlösungsstrategie
 Ein realer Konflikt besteht meist aus einer Vermengung von verschiedenen Konfliktarten. Jede einzelne Art kann dabei entweder gerade heiß oder erkaltet sein. Hinter einem Sachkonflikt kann beispielsweise auch ein Beziehungskonflikt stehen, der vor längerer Zeit seinen Anfang nahm, jedoch immer noch unterschwellig eine Rolle bei dem derzeitigen Konflikt spielt. Wird nun zuerst der Sachkonflikt gelöst, die gegenseitige Wertschätzung jedoch noch immer nicht vorhanden ist, weil der Beziehungskonflikt nicht gelöst wurde, so wird sehr schnell ein neuer Konflikt auf der Sachebene entstehen, angefacht durch den Beziehungskonflikt. Wird jedoch zuerst der Beziehungskonflikt gelöst, kann auf Basis gegenseitigem Verständnisses und Wertschätzung der Sachkonflikt deutlich besser gelöst werden. Ein sinnvolles Vorgehen bei der Lösung von Konflikten bietet die folgende Abbildung.  
-![Heißer und Kalter Konflikt](/assets/konflikteisberg.png)  
+![Konflikte im Eisbergmodell](/assets/konflikteisberg.png)  
 *Eine sinnvolle Reihenfolge, in der die einzelnen Konfliktanteile nach den Konfliktarten angegangen werden.*
 
 Die verschiedenen Konflikte werden dabei als Eisbergmodell dargestellt. Der Sachkonflikt ist dabei meist nur die Spitze des Eisbergs, darunter liegen aber deutlich mehr, meist nicht sichtbare andere Konflikte. Statt also den Sachkonflikt direkt anzugehen, sollten zuerst die zugrunde liegenden Konflikte gelöst werden.
 
 ## Konfliktmuster rechtzeitig erkennen
 Für ein erfolgreiches Konfliktmanagement ist es notwendig aufkommende Konflikte frühzeitig wahrzunehmen.  Nicht jedes auftretende Hindernis in einem Projekt wird sich direkt zu einem Konflikt entwickeln. Zu Beginn sind es meist nur Schwierigkeiten, alltägliche Hindernisse, die meist die betroffene Person selbst lösen kann. Wird angemessen auf die Schwierigkeit reagiert und eine Lösung gefunden kann kein Konflikt mehr darauf entstehen. Eine unangemessene Behandlung der Schwierigkeit führt jedoch zu einem Problem. Ein Problem ist dabei ein Hindernis, das für eine einzelne Person meist unlösbar erscheint und nur mit Hilfe von anderen überwunden werden kann. Wird auf ein Problem wieder angemessen reagiert, kann eine Lösung gefunden werden und es entsteht kein Konflikt. Wird jedoch auf das Problem auf unangemessene Weise behandelt, entwickelt sich das Problem zu einem Konflikt. Um Konflikten somit vorzubeugen, ist es also wichtig das bereits Schwierigkeiten gut behandelt werden und es erkannt wird, wenn sie zu einem Problem werden.  
-![Heißer und Kalter Konflikt](/assets/SchwierigkeitProblemKonflikt.png)  
+![Schwierigkeit, Problem und Konflikt](/assets/SchwierigkeitProblemKonflikt.png)  
 *Aus alltäglichen Schwierigkeiten werden durch unangemessene Lösungsversuche Probleme. Werden diese Probleme nicht gelöst, entstehen daraus Konflikte.*
 
 ### Konflikteskalationsstufen
 Die Entwicklung eines Konflikts kann auch anhand eines neunstufigen Phasenmodells dargestellt werden. Jeweils drei Phasen sind dabei zu einer Ebene zusammengefasst. In der ersten Ebene, der Win-Win Ebene, kann dabei noch jeder Beteiligte am Konflikt einen Gewinn bei der Lösung des Konflikts gewinnen. In der Win-lose Ebene gibt es jedoch mindestens einen Verlierer, beispielsweise weil jemand anderes seine Meinung durchgesetzt hat, oder es wird ein Kompromiss gefunden. Dann hat zwar keiner einen vollständigen Gewinn gemacht, aber auch nicht komplett verloren. Die Lose-lose Ebene hat zur Eigenschaft, dass alle Beteiligten nur noch Verlieren können. Hier wird entweder der eigene Verlust in Kauf genommen, solange die andere Partei noch größere Verluste hat, oder er wird mit allen Mitteln versucht die andere Partei vom Gewinnen abzuhalten.  
-![Heißer und Kalter Konflikt](/assets/Konfliktphasenmodell.png)  
+![Konfliktphasenmodell](/assets/Konfliktphasenmodell.png)  
 *Konflikte eskalieren häufig nach dem neunstufigen Phasenmodell der Eskalation von Friedrich Glasl. Jeweils drei Stufen bilden eine Ebene, die die Möglichkeiten der beteiligten Parteien beschreibt.*
 
 **1. Stufe: Verhärtung**  
@@ -149,6 +149,18 @@ Es können nun vier Kommunikationsmuster anhand daraus abgeleitet werden, wie ei
 - **Was funktioniert nicht?** Konflikte austragen, Verbindlichkeit schaffen und Dinge zu Ende bringen   
   
 ### Gruppendynamik
+Konflikte zwischen Menschen können nur entstehen, wenn Menschen aufeinander treffen, oder in irgendeiner Beziehung zueinander stehen. Es wird also stets eine Gruppe von Menschen betrachtet. Jede Gruppe hat dabei eine eigene Dynamik und es kann innerhalb einer Gruppe zu Konflikten kommen. Des Weiteren besteht auch eine Beziehung zu anderen Gruppen und auch in dieser Beziehung kann es zu Konflikten kommen.  
+Die Struktur einer Gruppe ist ständigen Veränderungen unterworfen und sie entwickelt sich somit weiter. Diese Entwicklung kann dabei in mehreren Phasen erfolgen, dargestellt in einem Phasenmodell.  
+
+![Gruppenentwicklung](/assets/Gruppenentwicklung.png)  
+*Jede Gruppe hat einen Lebenszyklus und obliegt damit einer inneren Dynamik. Damit verbunden ist eine Konfliktphase in der Findung einer Gruppe (Storming)*  
+
+Zu Beginn des Lebenszyklus einer Gruppe steht dabei die Orientierungsphase, hier herrscht noch Unsicherheit und ein distanziertes Verhalten unter den Gruppenmitgliedern. In der anschließenden Konfliktphase beginnt der Machtkampf der Gruppenmitglieder untereinander. Jeder versucht seine gewünschte Rolle in der Gruppe einzunehmen, es kommt zu Konflikten und die Gruppe selbst kommt nur mühsam voran. Diese Phase ist die Härteprobe einer jeden Gruppe, ist sie überstanden geht es in die Orientierungsphase. Hier entwickeln sich die Umgangsformen und Verhaltensweisen, die Gruppenmitglieder haben ihren Platz gefunden und der Konkurrenzkampf weicht einer intensiven Zusammenarbeit. Die nächste Phase ist dann die Hochleistungsphase, die Gruppe ist eingespielt, kann optimal arbeiten und ihr Potential voll zur Geltung bringen. Nach dieser Phase erfolgt die Phase der Umorientierung. Einzelne Personen verlassen die Gruppe, andere kommen hinzu und es werden neue Aufgaben gesucht. Dabei kommt es wieder zu Spannungen und es tritt erneut die Konfliktphase ein.  
+
+Neben Konflikten in der Gruppe selbst, kann es auch zu Konflikten mit anderen Gruppen kommen. Als Entwickler ist man beispielsweise häufig den anderen Mitgliedern des Entwicklungsteams positiv gegenüber eingestellt. Ausstehenden Gruppen, wie beispielsweise der Qualitätssicherung, ist man jedoch negativ gegenüber eingestellt. Sie werden als Störenfriede gesehen, die die eigene Gruppe negativ beeinflussen. Diese Haltung gegenüber anderen Gruppen ist jedoch langfristig schädlich und von Konflikten geprägt.  
+
+![Gruppendynamik](/assets/Gruppendynamik.png)  
+*Die Nicht-O.K.-Einstellung zu Gruppen außerhalb der eigenen führt leicht zu Konflikten mit diesen Menschen.*
 
 ## Konflikte managen
 
