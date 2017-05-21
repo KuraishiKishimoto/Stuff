@@ -111,6 +111,44 @@ Konfliktparteien versuchen sich mit Vernichtungsstrategien gegenseitig zu zerst�
 Eigene Vernichtung wird einkalkuliert, um den Gegner zu besiegen.  
 
 ### Kommunikationsmuster in Konflikten
+Häufig werden in Konflikten destruktive Kommunikationsweisen genutzt. Dabei wird dies nicht bewusst gemacht, sondern man fällt aufgrund von Stress unbewusst in bestimmte Kommunikationsmuster zurück.  
+Um diese Muster zu verdeutlichen wird die Dimension eines Konflikts auf drei Aspekte reduziert.    
+
+**Selbst:** Die eigene Person, meine Bedürfnisse, Interessen, Anliegen, sowie mein Selbstwertgefühl  
+**Andere:** Die anderen Personen im direkten Umfeld und deren Bedürfnisse,Interessen und Anliegen    
+**Kontext:** Die konkrete Sache um die es geht und alle direkt damit im Zusammenhang stehenden fachlichen Aspekte.  
+
+Es können nun vier Kommunikationsmuster anhand daraus abgeleitet werden, wie eine Person in ihrer Kommunikation diese Aspekte gewichtet. Je nach Muster können dabei manche Sachen gut funktionieren, andere wiederum nicht. Es kann daher für die Konfliktbewältigung von Vorteil sein manche Muster durchzusetzen, oder zu verlassen.  
+
+**Beschwichtiger:** Fokussierung auf Kontext und Andere, Vernachlässigung des Selbst.  
+- **Motto:** Nur wenn ich für andere Sorge, geht es mir gut  
+- **Charakteristika:** Macht sich viele Gedanken und ist anspruchslos für sich selbst  
+- **Typische Syntax:** häufiger Gebrauch von Einschränkungen und Konjunktiven  
+- **Was funktioniert gut?** Harmonie schaffen, vermitteln im Team, Sympathie erzeugen, anpassungsfähig, hohes Risikobewusstsein, zuverlässig sein und sehr genau hinschauen (allerdings dafür langsamer)  
+- **Was funktioniert nicht?** Etwas durchsetzten, standfest sein, streiten (gibt schnell nach) und aktive Führung  
+   
+**Rationalisierer:** Fokussierung auf Kontext, Vernachlässigung von Selbst und der Anderen.   
+- **Motto:** Nur wenn wir ganz sachlich und logisch vorgehen, kommen wir zu einem guten Ergebnis   
+- **Charakteristika:** Fakten dominieren, zeigt keine Emotionen, detailverliebt  
+- **Typische Syntax:** Substantivierung, tilgen von Verben, Formulierungen mit "man"  
+- **Was funktioniert gut?** Forschen, Ziele und Maßnahmen finden, Wissen sammeln, Einzelarbeit, Regeln und Grenzen einhalten, Auswirkungen betrachten und Neutralität im Sinne eines Schiedsrichters  
+- **Was funktioniert nicht?** Unkonventionelle Wege gehen, Kompromisse erarbeiten, Konflikte und die dahinter stehenden Bedürfnisse erkennen    
+
+**Ankläger:** Fokussierung auf Kontext und Selbst, Vernachlässigung der Anderen.  
+- **Motto:** Nur wenn ich kämpfe, bekomme ich etwas  
+- **Charakteristika:** lebhaft, laut, schnell, aggressiv  
+- **Typische Syntax:** Formulierungen mit "andere" oder Universalquantoren wie "immer" oder "jeder"  
+- **Was funktioniert gut?** Etwas vorantreiben, effizient arbeiten, etwas optimieren, Klarheit schaffen, Sicherheit geben, schnell Ergebnisse liefern und Führung im Sinne von Orientierung    
+- **Was funktioniert nicht?** Kompromisse erarbeiten, andere einbinden, zuhören, genau arbeiten, Umwelt wahrnehmen, Fingerspitzengefühl und Zusammenarbeit    
+
+**Ablenker:** Fokussierung auf nichts, Vernachlässigung des Kontext, des Selbst und der Anderen   
+- **Motto:** Nichts ist wirklich wichtig  
+- **Charakteristika:** unstrukturiert bis chaotisch, unverbindlich, kreativ, immer guter Stimmung  
+- **Typische Syntax:** rascher Wechsel der Wortwahl, eher generelle und zukunftsorientierte Formulierungen, Worte ohne Beziehung zum Gesprächspartner und dadurch kaum konkret greifbar  
+- **Was funktioniert gut?** Neue Ideen einbringen, Begeisterung, Vision entwickeln und Schwung einbringen, Motivation sowie Innovation  
+- **Was funktioniert nicht?** Konflikte austragen, Verbindlichkeit schaffen und Dinge zu Ende bringen   
+  
+### Gruppendynamik
 
 ## Konflikte managen
 
