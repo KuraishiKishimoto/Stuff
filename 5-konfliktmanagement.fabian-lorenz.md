@@ -75,14 +75,42 @@ Es muss also ein angemessenes, konstruktives Konfliktniveau erreicht werden, um 
 *Konflikte sind notwendig, um uns zu hinterfragen und Lösungen zu optimieren. Die Kunst ist es, dafür ein angemessenes Konfliktniveau zu finden*
 
 #### Grundsätzliche Konfliktlösungsstrategie
-Ein realer Konflikt besteht meist aus einer Vermengung von verschiedenen Konfliktarten. Jede einzelne Art kann dabei entweder gerade heiß oder erkaltet sein. Hinter einem Sachkonflikt kann beispielsweise auch ein Beziehungskonflikt stehen, der vor längerer Zeit seinen Anfang nahm, jedoch immer noch unterschwellig eine Rolle bei dem derzeitigen Konflikt spielt. Wird nun zuerst der Sachkonflikt gelöst, die gegenseitige Wertschätzung jedoch noch immer nicht vorhanden ist, weil der Beziehungskonflikt nicht gelöst wurde, so wird sehr schnell ein neuer Konflikt auf der Sachebene entstehen, angefacht durch den Beziehungskonflikt. Wird jedoch zuerst der Beziehungskonflikt gelöst, kann auf Basis gegenseitigem Verständnisses und Wertschätzung der Sachkonflikt deutlich besser gelöst werden. Ein sinnvolles Vorgehen bei der Lösung von Konflikten bietet die folgende Abbildung.
+Ein realer Konflikt besteht meist aus einer Vermengung von verschiedenen Konfliktarten. Jede einzelne Art kann dabei entweder gerade heiß oder erkaltet sein. Hinter einem Sachkonflikt kann beispielsweise auch ein Beziehungskonflikt stehen, der vor längerer Zeit seinen Anfang nahm, jedoch immer noch unterschwellig eine Rolle bei dem derzeitigen Konflikt spielt. Wird nun zuerst der Sachkonflikt gelöst, die gegenseitige Wertschätzung jedoch noch immer nicht vorhanden ist, weil der Beziehungskonflikt nicht gelöst wurde, so wird sehr schnell ein neuer Konflikt auf der Sachebene entstehen, angefacht durch den Beziehungskonflikt. Wird jedoch zuerst der Beziehungskonflikt gelöst, kann auf Basis gegenseitigem Verständnisses und Wertschätzung der Sachkonflikt deutlich besser gelöst werden. Ein sinnvolles Vorgehen bei der Lösung von Konflikten bietet die folgende Abbildung.  
 ![Heißer und Kalter Konflikt](/assets/konflikteisberg.png)  
 *Eine sinnvolle Reihenfolge, in der die einzelnen Konfliktanteile nach den Konfliktarten angegangen werden.*
 
 Die verschiedenen Konflikte werden dabei als Eisbergmodell dargestellt. Der Sachkonflikt ist dabei meist nur die Spitze des Eisbergs, darunter liegen aber deutlich mehr, meist nicht sichtbare andere Konflikte. Statt also den Sachkonflikt direkt anzugehen, sollten zuerst die zugrunde liegenden Konflikte gelöst werden.
 
 ## Konfliktmuster rechtzeitig erkennen
+Für ein erfolgreiches Konfliktmanagement ist es notwendig aufkommende Konflikte frühzeitig wahrzunehmen.  Nicht jedes auftretende Hindernis in einem Projekt wird sich direkt zu einem Konflikt entwickeln. Zu Beginn sind es meist nur Schwierigkeiten, alltägliche Hindernisse, die meist die betroffene Person selbst lösen kann. Wird angemessen auf die Schwierigkeit reagiert und eine Lösung gefunden kann kein Konflikt mehr darauf entstehen. Eine unangemessene Behandlung der Schwierigkeit führt jedoch zu einem Problem. Ein Problem ist dabei ein Hindernis, das für eine einzelne Person meist unlösbar erscheint und nur mit Hilfe von anderen überwunden werden kann. Wird auf ein Problem wieder angemessen reagiert, kann eine Lösung gefunden werden und es entsteht kein Konflikt. Wird jedoch auf das Problem auf unangemessene Weise behandelt, entwickelt sich das Problem zu einem Konflikt. Um Konflikten somit vorzubeugen, ist es also wichtig das bereits Schwierigkeiten gut behandelt werden und es erkannt wird, wenn sie zu einem Problem werden.
+![Heißer und Kalter Konflikt](/assets/SchwierigkeitProblemKonflikt.png)  
+*Aus alltäglichen Schwierigkeiten werden durch unangemessene Lösungsversuche Probleme. Werden diese Probleme nicht gelöst, entstehen daraus Konflikte.*
 
+### Konflikteskalationsstufen
+Die Entwicklung eines Konflikts kann auch anhand eines neunstufigen Phasenmodells dargestellt werden. Jeweils drei Phasen sind dabei zu einer Ebene zusammengefasst. In der ersten Ebene, der Win-Win Ebene, kann dabei noch jeder Beteiligte am Konflikt einen Gewinn bei der Lösung des Konflikts gewinnen. In der Win-lose Ebene gibt es jedoch mindestens einen Verlierer, beispielsweise weil jemand anderes seine Meinung durchgesetzt hat, oder es wird ein Kompromiss gefunden. Dann hat zwar keiner einen vollständigen Gewinn gemacht, aber auch nicht komplett verloren. Die Lose-lose Ebene hat zur Eigenschaft, dass alle Beteiligten nur noch Verlieren können. Hier wird entweder der eigene Verlust in Kauf genommen, solange die andere Partei noch größere Verluste hat, oder er wird mit allen Mitteln versucht die andere Partei vom Gewinnen abzuhalten.
+![Heißer und Kalter Konflikt](/assets/Konfliktphasenmodell.png)  
+*Konflikte eskalieren häufig nach dem neunstufigen Phasenmodell der Eskalation von Friedrich Glasl. Jeweils drei Stufen bilden eine Ebene, die die Möglichkeiten der beteiligten Parteien beschreibt.*
+
+**1. Stufe: Verhärtung**  
+Alltägliche Schwierigkeiten lassen Meinungsverschiedenheiten aufeinanderprallen. Da Meinungsverschiedenheiten recht alltäglich sind, werden sie häufig auch nicht als Beginn eines Konflikts wahrgenommen.   
+**2. Stufe: Debatte und Polemik**  
+Konfliktpartner überlegen sich Strategien, um andere von ihren Argumenten zu überzeugen und unter Druck zu setzen.  
+**3. Stufe: Taten statt Worte**  
+Konfliktpartner erhöhen durch Taten den Druck auf die anderen um ihre jeweilige Meinung durchzusetzen. Gespräche werden abgebrochen, es findet keine direkte Kommunikation mehr statt.  
+**4. Stufe: Sorge ums Image und Koalitionsbildung**  
+Konfliktparteien versuchen Unterstützer für ihre Sache zu finden, Gegner werden denunziert. Konflikt verschärft sich so strak, dass es nicht mehr um die eigentliche Sache geht, sondern nur noch darum zu gewinnen.   
+**5. Stufe: Gesichtsverlust**  
+Mit Gesichtsverlust ist der Verlust der moralischen Glaubwürdigkeit der Gegner gemeint. Sie sollen in ihrer Identität vernichtet werden, unter anderem durch Unterstellungen und politischen Machtspielen. Verlust des kompletten gegenseitigen Vertrauensverhältnis.  
+**6. Stufe: Drohstrategien**  
+Konfliktparteien versuchen die Situation durch Drohungen zu kontrollieren. Zwar können auch in den vorherigen Phasen schon Drohungen ausgesprochen werden, in dieser Stufe sind sie jedoch sehr ernst gemeint und auch umgesetzt.  
+**7. Stufe: Begrenzte Vernichtung**  
+Konfliktparteien versuchen sich mit allen Tricks gegenseitig zu schaden. Der Gegner wird dabei nicht mehr als Mensch wahrgenommen und solange sein Schaden größer ist, wird auch ein eigener kleiner Schaden als Gewinn angesehen.  
+**8. Stufe: Zersplitterung**  
+Konfliktparteien versuchen sich mit Vernichtungsstrategien gegenseitig zu zerstören.  
+**9. Stufe: Gemeinsam in den Abgrund**  
+Eigene Vernichtung wird einkalkuliert, um den Gegner zu besiegen.  
+
+### Kommunikationsmuster in Konflikten
 
 ## Konflikte managen
 
