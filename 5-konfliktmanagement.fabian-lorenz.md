@@ -169,5 +169,16 @@ Eine andere Art Konflikte zu managen besteht in der Konfliktmoderation. Dabei gi
 *Struktur einer Konfliktbearbeitung mit Moderation.*  
 
 Hilft auch die Konfliktmoderation nicht mehr, so gibt es die Möglichkeit der Konfliktmediation. Dabei gibt es einen neutralen außer parteilichen Moderator, den den beteiligten Parteien dabei hilft, selbständig eine Lösung zu finden. Die Konfliktparteien müssen dabei freiwillig an der Mediation teilnehmen, bereit sein fair und offen zu kommunizieren und für alle Lösungsmöglichkeiten offen sein. Der Ablauf einer Mediation ist dabei ähnlich wie bei der Konfliktmoderation, sie ist jedoch etwas förmlicher. Außerdem besitzt sie eine gesetzliche Grundlage, Mediatoren dürfen eine Mediation nur durchführen, wenn sie die gesetzlichen Voraussetzungen erfüllen.
-## Erfolgreich Verhandlungen führen
 
+## Erfolgreich Verhandlungen führen
+Die Fähigkeit, erfolgreich Verhandlungen zu führen, ist für Softwareentwickler von Vorteil, beispielsweise um wichtige Entscheidungen bei der Projektgestaltung mitzubestimmen.  
+Meist trifft man bei Verhandlungen auf zwei Verhandlungsstrategien, zum einen dem harten Verhandeln, bei dem der Sieg und somit der eigene Vorteil im Mittelpunkt steht, zum anderen das weiche Verhandeln, wo versucht wird eine möglichst konfliktfreie Übereinkunft zu finden.  
+![Hartes, Weiches Verhandeln](/assets/HartWeichVerhandeln.png)  
+*Hartes und weiches Verhandeln in der Gegenüberstellung bzgl. Ziel, innerer Haltung, Strategie und Verhandlungslinie.*   
+
+Beide Varianten haben jedoch Nachteile, harte Verhandlungen führen langfristig zu schlechten Geschäftsbeziehungen, weiche Verhandlungen führen dazu, dass die eigenen Ziele und Wünsche nicht beachtet werden.  
+Um erfolgreiche Verhandlungen zu führen, ist es daher hilfreich sich am Harvard Konzept zu orientieren. Hier wird eine dritte Möglichkeit des Verhandelns benutzt, das Sachorientierte Verhandeln.  
+![Sachorientiertes Verhandeln](/assets/SachorientiertesVerhandeln.png)  
+*Kennzeichen sachorientierten Verhandelns bzgl. Ziel, innerer Haltung, Strategie und Verhandlungslinie.*
+
+Hier wird beim Verhandeln zwischen des Sach- und Beziehungsebene unterschieden. Geht es um die Sache werden harte Argumente benutzt, gleichzeitig drücken wir jedoch in der Beziehungsebene unsere gegenseitige Wertschätzung aus. So können Lösungen gefunden werden, die von allen beteiligten Parteien vernünftig akzeptiert werden.  
