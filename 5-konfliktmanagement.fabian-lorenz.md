@@ -38,7 +38,7 @@ Dem Verhalten der Konfliktpartner liegen unterschiedliche Interessen zugrunde, d
 
 * Ursache: Es bestehen unterschiedliche Interessen, Diese werden jedoch nicht offen geäußert, sondern vordergründige Positionen werden ausgetauscht.
 * Beispiel: Bei Gehaltsverhandlungen werden immer nur Forderung und Gegenposition genannt und wiederholt: "Ich will 300€ mehr im Monat!" "Ich kann ihnen aber nur 50€ bieten!".
-* Lösungsweg: Über das Erkennen und Verstehen der tatsächlichen Interessen wird versucht ein Lösungsweg zu finden. Eine offenen und vertrauensvolle Umgebung kann dabei hilfreich sein, diese Interessen zu erkennen. Im Beispiel der Gehaltsverhandlung muss erkannt werden, warum der Arbeitnehmer mehr Gehalt möchte, beispielsweise vielleicht weil er mehr Geld für seinen Lebensunterhalt braucht, oder weil seine Kollegen mehr verdienen und er sich ungerecht behandelt fühlt. Beim Arbeitgeber können begrenzte Mittel eine Rolle spielen oder vielleicht hängt seine Prämie daran, möglichst niedrige Gehaltsabschlüsse zu erzielen. Sind die tatsächlichen Interessen identifiziert, kann ein Interessenausgleich verhandelt werden.
+* Lösungsweg: Über das Erkennen und Verstehen der tatsächlichen Interessen wird versucht ein Lösungsweg zu finden. Eine offene und vertrauensvolle Umgebung kann dabei hilfreich sein, diese Interessen zu erkennen. Im Beispiel der Gehaltsverhandlung muss erkannt werden, warum der Arbeitnehmer mehr Gehalt möchte, beispielsweise vielleicht weil er mehr Geld für seinen Lebensunterhalt braucht, oder weil seine Kollegen mehr verdienen und er sich ungerecht behandelt fühlt. Beim Arbeitgeber können begrenzte Mittel eine Rolle spielen oder vielleicht hängt seine Prämie daran, möglichst niedrige Gehaltsabschlüsse zu erzielen. Sind die tatsächlichen Interessen identifiziert, kann ein Interessenausgleich verhandelt werden.
 
 #### Wertekonflikt
 Als Wert wird bezeichnet, was eine einzelne Person als wichtig oder lohnend einzuschätzen gelernt hat. Dies können Lebensprinzipien sein, oder Ziele die man erreichen möchte. Ein Wert ist also recht unabhängig von konkreten Situationen oder anderen Personen. Auch ändern sich die Werte einer Person oder einer Gesellschaft mit der Zeit.
@@ -54,13 +54,13 @@ Rollenkonflikte entstehen durch unterschiedliche Anforderungen, die von verschie
 * Beispiel: Mittlere Führungskräfte bekommen Anforderungen von der Geschäftsführung, sowie von den ihr unterstellten Mitarbeitern. Beide haben dabei meist unterschiedliche Erwartungen.
 * Lösungsweg: Rollenkonflikte können meist nicht vollständig aufgelöst werden. Stattdessen sollten die unterschiedlichen Erwartungen offengelegt und transparent priorisiert werden. Somit werden die Entscheidungen zumindest nachvollziehbar. Auch kann es oft helfen die Kompetenzen der beteiligten Rollen zu verteilen bzw. zu optimieren.
 
-Ein weiteres bekanntes Beispiel für Rollenkonflikte in der IT sind dabei die Konflikte zwischen Entwicklern und der (externen) Qualitätssicherung. Beide verfolgen zwar das selbe Ziel, die Software zu verbessern, allerdings kann beispielsweise durch schlechte Kommunikation von Fehlern die Situation schnell verschlechtert werden. Entwickler können sich stark mit ihren geschriebenen Quellcode identifizieren und sich durch Kritik am Quellcode persönlich angegriffen fühlen.
+Ein weiteres bekanntes Beispiel für Rollenkonflikte in der IT sind dabei die Konflikte zwischen Entwicklern und der (externen) Qualitätssicherung. Beide verfolgen zwar dasselbe Ziel, die Software zu verbessern, allerdings kann beispielsweise durch schlechte Kommunikation von Fehlern die Situation schnell verschlechtert werden. Entwickler können sich stark mit ihren geschriebenen Quellcode identifizieren und sich durch Kritik am Quellcode persönlich angegriffen fühlen.
 
 #### Systemkonflikt
 Bei einem Systemkonflikt wirken Konflikte von außerhalb der eigentlichen Gruppe, also aus dem umgebenden System auf die Gruppe ein. Ein Systemkonflikt kann daher nicht innerhalb der eigentlich betrachteten Gruppe aufgelöst werden.
 
 * Ursache: Aufgrund äußerer Engpässe oder anderer, widersprüchlicher Rahmenbedingungen kommt es zu Konfliktsituationen innerhalb einer Gruppe.
-* Beispiel: In der Entwicklungsabteilung haben zwei Mitarbeiter gekündigt, das derzeit laufende Projekt ist jedoch von äußerster Wichtigkeit für die Existenz des Unternehmens. Aufgrund einer Unternehmensweiten Umstrukturierung herrscht jedoch ein genereller Einstellungsstop für neue Mitarbeiter und Mittel für die Beauftragung von externen Mitarbeiter steht auch nicht zur Verfügung.
+* Beispiel: In der Entwicklungsabteilung haben zwei Mitarbeiter gekündigt, das derzeit laufende Projekt ist jedoch von äußerster Wichtigkeit für die Existenz des Unternehmens. Aufgrund einer Unternehmensweiten Umstrukturierung herrscht jedoch ein genereller Einstellungsstopp für neue Mitarbeiter und Mittel für die Beauftragung von externen Mitarbeiter steht auch nicht zur Verfügung.
 * Lösungsweg: Die Situation kann im Rahmen des Projektmanagements nur selten aufgelöst werden, da die vorhandenen Reserven meist nicht ausreichend für solche Extremsituationen sind. Es kann daher nur Klarheit über die Zusammenhänge geschaffen werden und der Konflikt an die Stelle delegiert werden, die ihn auflösen kann. Für die Akzeptanz der übergeordneten Instanz ist es wichtig, im Rahmen der Eskalation auch mehrere, alternative und konkrete Lösungsszenarien zu benennen.
 
 ###Konfliktdynamik
@@ -82,7 +82,7 @@ Ein realer Konflikt besteht meist aus einer Vermengung von verschiedenen Konflik
 Die verschiedenen Konflikte werden dabei als Eisbergmodell dargestellt. Der Sachkonflikt ist dabei meist nur die Spitze des Eisbergs, darunter liegen aber deutlich mehr, meist nicht sichtbare andere Konflikte. Statt also den Sachkonflikt direkt anzugehen, sollten zuerst die zugrunde liegenden Konflikte gelöst werden.
 
 ## Konfliktmuster rechtzeitig erkennen
-Für ein erfolgreiches Konfliktmanagement ist es notwendig aufkommende Konflikte frühzeitig wahrzunehmen.  Nicht jedes auftretende Hindernis in einem Projekt wird sich direkt zu einem Konflikt entwickeln. Zu Beginn sind es meist nur Schwierigkeiten, alltägliche Hindernisse, die meist die betroffene Person selbst lösen kann. Wird angemessen auf die Schwierigkeit reagiert und eine Lösung gefunden kann kein Konflikt mehr darauf entstehen. Eine unangemessene Behandlung der Schwierigkeit führt jedoch zu einem Problem. Ein Problem ist dabei ein Hindernis, das für eine einzelne Person meist unlösbar erscheint und nur mit Hilfe von anderen überwunden werden kann. Wird auf ein Problem wieder angemessen reagiert, kann eine Lösung gefunden werden und es entsteht kein Konflikt. Wird jedoch auf das Problem auf unangemessene Weise behandelt, entwickelt sich das Problem zu einem Konflikt. Um Konflikten somit vorzubeugen, ist es also wichtig das bereits Schwierigkeiten gut behandelt werden und es erkannt wird, wenn sie zu einem Problem werden.  
+Für ein erfolgreiches Konfliktmanagement ist es notwendig aufkommende Konflikte frühzeitig wahrzunehmen.  Nicht jedes auftretende Hindernis in einem Projekt wird sich direkt zu einem Konflikt entwickeln. Zu Beginn sind es meist nur Schwierigkeiten, alltägliche Hindernisse, die meist die betroffene Person selbst lösen kann. Wird angemessen auf die Schwierigkeit reagiert und eine Lösung gefunden kann kein Konflikt mehr darauf entstehen. Eine unangemessene Behandlung der Schwierigkeit führt jedoch zu einem Problem. Ein Problem ist dabei ein Hindernis, das für eine einzelne Person meist unlösbar erscheint und nur mit Hilfe von anderen überwunden werden kann. Wird auf ein Problem wieder angemessen reagiert, kann eine Lösung gefunden werden und es entsteht kein Konflikt. Wird jedoch auf das Problem auf unangemessene Weise behandelt, entwickelt sich das Problem zu einem Konflikt. Um Konflikten somit vorzubeugen, ist es also wichtig, dass bereits Schwierigkeiten gut behandelt werden und es erkannt wird, wenn sie zu einem Problem werden.  
 ![Schwierigkeit, Problem und Konflikt](/assets/SchwierigkeitProblemKonflikt.png)  
 *Aus alltäglichen Schwierigkeiten werden durch unangemessene Lösungsversuche Probleme. Werden diese Probleme nicht gelöst, entstehen daraus Konflikte.*
 
@@ -98,9 +98,9 @@ Konfliktpartner überlegen sich Strategien, um andere von ihren Argumenten zu ü
 **3. Stufe: Taten statt Worte**  
 Konfliktpartner erhöhen durch Taten den Druck auf die anderen um ihre jeweilige Meinung durchzusetzen. Gespräche werden abgebrochen, es findet keine direkte Kommunikation mehr statt.  
 **4. Stufe: Sorge ums Image und Koalitionsbildung**  
-Konfliktparteien versuchen Unterstützer für ihre Sache zu finden, Gegner werden denunziert. Konflikt verschärft sich so strak, dass es nicht mehr um die eigentliche Sache geht, sondern nur noch darum zu gewinnen.   
+Konfliktparteien versuchen Unterstützer für ihre Sache zu finden, Gegner werden denunziert. Konflikt verschärft sich so stark, dass es nicht mehr um die eigentliche Sache geht, sondern nur noch darum zu gewinnen.   
 **5. Stufe: Gesichtsverlust**  
-Mit Gesichtsverlust ist der Verlust der moralischen Glaubwürdigkeit der Gegner gemeint. Sie sollen in ihrer Identität vernichtet werden, unter anderem durch Unterstellungen und politischen Machtspielen. Verlust des kompletten gegenseitigen Vertrauensverhältnis.  
+Mit Gesichtsverlust ist der Verlust der moralischen Glaubwürdigkeit der Gegner gemeint. Sie sollen in ihrer Identität vernichtet werden, unter anderem durch Unterstellungen und politischen Machtspielen. Verlust des kompletten gegenseitigen Vertrauensverhältnisses.  
 **6. Stufe: Drohstrategien**  
 Konfliktparteien versuchen die Situation durch Drohungen zu kontrollieren. Zwar können auch in den vorherigen Phasen schon Drohungen ausgesprochen werden, in dieser Stufe sind sie jedoch sehr ernst gemeint und auch umgesetzt.  
 **7. Stufe: Begrenzte Vernichtung**  
@@ -115,7 +115,7 @@ Häufig werden in Konflikten destruktive Kommunikationsweisen genutzt. Dabei wir
 Um diese Muster zu verdeutlichen wird die Dimension eines Konflikts auf drei Aspekte reduziert.    
 
 **Selbst:** Die eigene Person, meine Bedürfnisse, Interessen, Anliegen, sowie mein Selbstwertgefühl  
-**Andere:** Die anderen Personen im direkten Umfeld und deren Bedürfnisse,Interessen und Anliegen    
+**Andere:** Die anderen Personen im direkten Umfeld und deren Bedürfnisse, Interessen und Anliegen    
 **Kontext:** Die konkrete Sache um die es geht und alle direkt damit im Zusammenhang stehenden fachlichen Aspekte.  
 
 Es können nun vier Kommunikationsmuster anhand daraus abgeleitet werden, wie eine Person in ihrer Kommunikation diese Aspekte gewichtet. Je nach Muster können dabei manche Sachen gut funktionieren, andere wiederum nicht. Es kann daher für die Konfliktbewältigung von Vorteil sein manche Muster durchzusetzen, oder zu verlassen.  
@@ -125,7 +125,7 @@ Es können nun vier Kommunikationsmuster anhand daraus abgeleitet werden, wie ei
 - **Charakteristika:** Macht sich viele Gedanken und ist anspruchslos für sich selbst  
 - **Typische Syntax:** häufiger Gebrauch von Einschränkungen und Konjunktiven  
 - **Was funktioniert gut?** Harmonie schaffen, vermitteln im Team, Sympathie erzeugen, anpassungsfähig, hohes Risikobewusstsein, zuverlässig sein und sehr genau hinschauen (allerdings dafür langsamer)  
-- **Was funktioniert nicht?** Etwas durchsetzten, standfest sein, streiten (gibt schnell nach) und aktive Führung  
+- **Was funktioniert nicht?** Etwas durchsetzen, standfest sein, streiten (gibt schnell nach) und aktive Führung  
    
 **Rationalisierer:** Fokussierung auf Kontext, Vernachlässigung von Selbst und der Anderen.   
 - **Motto:** Nur wenn wir ganz sachlich und logisch vorgehen, kommen wir zu einem guten Ergebnis   
@@ -168,7 +168,7 @@ Eine andere Art Konflikte zu managen besteht in der Konfliktmoderation. Dabei gi
 ![Moderationsablauf](/assets/Konfliktmoderation.png)  
 *Struktur einer Konfliktbearbeitung mit Moderation.*  
 
-Hilft auch die Konfliktmoderation nicht mehr, so gibt es die Möglichkeit der Konfliktmediation. Dabei gibt es einen neutralen außer parteilichen Moderator, den den beteiligten Parteien dabei hilft, selbständig eine Lösung zu finden. Die Konfliktparteien müssen dabei freiwillig an der Mediation teilnehmen, bereit sein fair und offen zu kommunizieren und für alle Lösungsmöglichkeiten offen sein. Der Ablauf einer Mediation ist dabei ähnlich wie bei der Konfliktmoderation, sie ist jedoch etwas förmlicher. Außerdem besitzt sie eine gesetzliche Grundlage, Mediatoren dürfen eine Mediation nur durchführen, wenn sie die gesetzlichen Voraussetzungen erfüllen.
+Hilft auch die Konfliktmoderation nicht mehr, so gibt es die Möglichkeit der Konfliktmediation. Dabei gibt es einen neutralen außer parteilichen Moderator, der den beteiligten Parteien dabei hilft, selbständig eine Lösung zu finden. Die Konfliktparteien müssen dabei freiwillig an der Mediation teilnehmen, bereit sein fair und offen zu kommunizieren und für alle Lösungsmöglichkeiten offen sein. Der Ablauf einer Mediation ist dabei ähnlich wie bei der Konfliktmoderation, sie ist jedoch etwas förmlicher. Außerdem besitzt sie eine gesetzliche Grundlage, Mediatoren dürfen eine Mediation nur durchführen, wenn sie die gesetzlichen Voraussetzungen erfüllen.
 
 ## Erfolgreich Verhandlungen führen
 Die Fähigkeit, erfolgreich Verhandlungen zu führen, ist für Softwareentwickler von Vorteil, beispielsweise um wichtige Entscheidungen bei der Projektgestaltung mitzubestimmen.  
