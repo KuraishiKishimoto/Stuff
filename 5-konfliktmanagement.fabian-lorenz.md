@@ -163,7 +163,11 @@ Neben Konflikten in der Gruppe selbst, kann es auch zu Konflikten mit anderen Gr
 *Die Nicht-O.K.-Einstellung zu Gruppen außerhalb der eigenen führt leicht zu Konflikten mit diesen Menschen.*
 
 ## Konflikte managen
+Natürlich ist es nicht nur notwendig Konflikte rechtzeitig zu erkennen, sondern auch angemessen mit ihnen umzugehen. Häufig hilft dabei ein Kritikgespräch. Bei einem Kritikgespräch setzen sich zwei Personen zusammen und stellen ihre jeweils unterschiedlichen Sichtweisen dar. Dabei wird stark auf aktives Zuhören gesetzt, sobald eine Person ihre Sichtweise dargestellt hat, gibt die andere wieder, was sie verstanden haben. Dadurch wird ein gemeinsames Verständnis aufgebaut, auf dessen Grundlage nun konkrete Handlungen vereinbart werden können. Wie bei vielen anderen Konfliktaspekten, ist auch hier die gegenseitige Wertschätzung vonnöten: Kritik soll nicht dazu dienen die Person zu verletzen, sondern ihr zu helfen. 
+Eine andere Art Konflikte zu managen besteht in der Konfliktmoderation. Dabei gibt es einen allparteilichen Moderator, der keiner Seite einen Vorzug gibt und allen Lösungsmöglichkeiten offen gegenübersteht. Dieser leitet die Diskussion der Konfliktparteien und legt dabei den Fokus auf den Inhalt der Auseinandersetzung und dem Empfinden und Sichtweisen der Beteiligten. Er achtet darauf, dass ein aktives Zuhören stattfindet sowie darauf, dass sachliche Aussagen und positive Ergebnisse visualisiert werden. Der Ablauf einer Moderation kann dabei in acht Phasen erfolgen, dargestellt in der folgenden Abbildung.  
+![Moderationsablauf](/assets/Konfliktmoderation.png)  
+*Struktur einer Konfliktbearbeitung mit Moderation.*  
 
-
+Hilft auch die Konfliktmoderation nicht mehr, so gibt es die Möglichkeit der Konfliktmediation. Dabei gibt es einen neutralen außer parteilichen Moderator, den den beteiligten Parteien dabei hilft, selbständig eine Lösung zu finden. Die Konfliktparteien müssen dabei freiwillig an der Mediation teilnehmen, bereit sein fair und offen zu kommunizieren und für alle Lösungsmöglichkeiten offen sein. Der Ablauf einer Mediation ist dabei ähnlich wie bei der Konfliktmoderation, sie ist jedoch etwas förmlicher. Außerdem besitzt sie eine gesetzliche Grundlage, Mediatoren dürfen eine Mediation nur durchführen, wenn sie die gesetzlichen Voraussetzungen erfüllen.
 ## Erfolgreich Verhandlungen führen
 
