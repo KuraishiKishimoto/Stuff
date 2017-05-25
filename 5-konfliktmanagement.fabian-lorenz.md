@@ -63,7 +63,7 @@ Bei einem Systemkonflikt wirken Konflikte von außerhalb der eigentlichen Gruppe
 * Beispiel: In der Entwicklungsabteilung haben zwei Mitarbeiter gekündigt, das derzeit laufende Projekt ist jedoch von äußerster Wichtigkeit für die Existenz des Unternehmens. Aufgrund einer Unternehmensweiten Umstrukturierung herrscht jedoch ein genereller Einstellungsstopp für neue Mitarbeiter und Mittel für die Beauftragung von externen Mitarbeiter steht auch nicht zur Verfügung.
 * Lösungsweg: Die Situation kann im Rahmen des Projektmanagements nur selten aufgelöst werden, da die vorhandenen Reserven meist nicht ausreichend für solche Extremsituationen sind. Es kann daher nur Klarheit über die Zusammenhänge geschaffen werden und der Konflikt an die Stelle delegiert werden, die ihn auflösen kann. Für die Akzeptanz der übergeordneten Instanz ist es wichtig, im Rahmen der Eskalation auch mehrere, alternative und konkrete Lösungsszenarien zu benennen.
 
-###Konfliktdynamik
+### Konfliktdynamik
 Konflikte können selbst in den bestmöglich funktionierenden Gruppen entstehen. Dies muss jedoch nicht negatives sein, denn Konflikte können dabei helfen die Entwicklung weiterzubringen und kreative Lösungen hervorzubringen. Dafür müssen sie jedoch konstruktiv sein. Zu viel Kooperation und damit ein nicht vorhandenes Konfliktpotential führt zu einfallslosen Lösungen. Zu viel Konkurrenz führt dazu, dass jeder nur noch für sich selbst arbeitet und somit nie das bestmögliche Potential der Gruppe ausgeschöpft werden kann.
 
 ![Konstruktive Konflikte](/assets/Konstruktive_Konflikte.png)  
