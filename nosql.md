@@ -3,7 +3,6 @@
 Autor: Fabian Lorenz
 
  -Einführung
- -Allgemeines
 	-Replication
 	-Sharding
 	-Clustering
