@@ -5,9 +5,17 @@
 * Sharding
 * Clustering
 * Hashing
+* Map-Reduce
 * Skalierung
 	* Vertikal
 	* Horizontal
-* Map-Reduce
 * In Memory Datenbanken
 
+## ACID/BASE/CAP-Theorem
+## Replication
+## Sharding
+## Clustering
+## Hashing
+## Map-Reduce
+## Skalierung
+## In Memory Datenbanken
