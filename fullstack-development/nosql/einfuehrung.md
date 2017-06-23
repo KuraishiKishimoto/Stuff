@@ -12,6 +12,12 @@
 * In Memory Datenbanken
 
 ## ACID/BASE/CAP-Theorem
+### ACID [1-2,12-23]
+
+### CAP []
+
+### BASE []
+
 
 ## Skalierung [2-7]
 Unter Skalieren versteht man die Eigenschaft eines Systems, sich an verändernde (meist wachsende) Ansprüche anzupassen. Im Bereich der Datenbanken kann beispielsweise der verfügbare Speicherplatz oder die Zugriffsgeschwindigkeit auf Daten eine Rolle spielen. Eine Verbesserung eines Systems kann dabei auf zwei verschiedene Arten erfolgen:  
