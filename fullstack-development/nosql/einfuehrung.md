@@ -29,4 +29,4 @@ Der Nachteil bei einer vertikalen Skalierung besteht darin, dass sie irgendwann 
 ## Clustering
 ## Hashing
 ## Map-Reduce
-## In Memory Datenbanken
+## In Memory Datenbanken [8-11,14]

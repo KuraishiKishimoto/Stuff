@@ -4,13 +4,13 @@ Autor: Fabian Lorenz
 
 * Einführung
 	* CAP-Theorem/BASE/ACID
+	* Skalierung
+		* Vertikal
+		* Horizontal
 	* Replication
 	* Sharding
 	* Clustering
 	* Hashing
-	* Skalierung
-		* Vertikal
-		* Horizontal
 	* Map-Reduce
 	* In Memory Datenbanken
 	
