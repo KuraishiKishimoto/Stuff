@@ -36,3 +36,19 @@
 * BASE
 * [29] [http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.BASE](http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.BASE) (abgerufen am 23.06.2017)
 * [30] [https://db-engines.com/de/article/BASE](https://db-engines.com/de/article/BASE) (abgerufen am 23.06.2017)
+* Map-Reduce
+* [31] [http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/MapReduce](http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/MapReduce) (abgerufen am 23.06.2017)
+* [32] [https://en.wikipedia.org/wiki/MapReduce](https://en.wikipedia.org/wiki/MapReduce) (abgerufen am 23.06.2017)
+* [33] [https://de.wikipedia.org/wiki/MapReduce](https://de.wikipedia.org/wiki/MapReduce) (abgerufen am 23.06.2017)
+* [34] [http://www.pal-blog.de/entwicklung/perl/einfach-erklaert-mapreduct-tutorial.html](http://www.pal-blog.de/entwicklung/perl/einfach-erklaert-mapreduct-tutorial.html) (abgerufen am 23.06.2017)
+* [35] [https://dbs.uni-leipzig.de/file/seminar_0910_koenig_ausarbeitung.pdf](https://dbs.uni-leipzig.de/file/seminar_0910_koenig_ausarbeitung.pdf) (abgerufen am 23.06.2017)
+* [36] [https://dbs.uni-leipzig.de/file/seminar_0910_findling_K%C3%B6nig.pdf](https://dbs.uni-leipzig.de/file/seminar_0910_findling_K%C3%B6nig.pdf) (abgerufen am 23.06.2017) 
+* [37] [https://docs.mongodb.com/manual/core/map-reduce/](https://docs.mongodb.com/manual/core/map-reduce/) (abgerufen am 23.06.2017)
+* [38] [http://scienceblogs.de/diaxs-rake/2012/11/18/big-data-1-einfaches-word-count-beispiel-in-python/?all=1](http://scienceblogs.de/diaxs-rake/2012/11/18/big-data-1-einfaches-word-count-beispiel-in-python/?all=1) (abgerufen am 23.06.2017)
+* [39] [http://www.searchenterprisesoftware.de/definition/MapReduce](http://www.searchenterprisesoftware.de/definition/MapReduce) (abgerufen am 23.06.2017)
+* [40] [https://nirajrules.wordpress.com/2013/05/31/big-data-nosql-and-mapreduce/](https://nirajrules.wordpress.com/2013/05/31/big-data-nosql-and-mapreduce/) (abgerufen am 23.06.2017)
+* [41] [https://de.slideshare.net/j_singh/nosql-and-mapreduce](https://de.slideshare.net/j_singh/nosql-and-mapreduce) (abgerufen am 23.06.2017)
+* [42] Dean, Jeffrey; Ghemawat, Sanjay. "MapReduce: Simplified Data Processing on Large Clusters", Google, Inc. (2004)
+* [43]
+* [44]
+* [45]
