@@ -49,6 +49,6 @@
 * [40] [https://nirajrules.wordpress.com/2013/05/31/big-data-nosql-and-mapreduce/](https://nirajrules.wordpress.com/2013/05/31/big-data-nosql-and-mapreduce/) (abgerufen am 23.06.2017)
 * [41] [https://de.slideshare.net/j_singh/nosql-and-mapreduce](https://de.slideshare.net/j_singh/nosql-and-mapreduce) (abgerufen am 23.06.2017)
 * [42] Dean, Jeffrey; Ghemawat, Sanjay. "MapReduce: Simplified Data Processing on Large Clusters", Google, Inc. (2004)
-* [43]
+* [43] [https://db-engines.com/de/article/MapReduce](https://db-engines.com/de/article/MapReduce) (abgerufen am 23.06.2017)
 * [44]
 * [45]
