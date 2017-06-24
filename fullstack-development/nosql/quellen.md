@@ -28,6 +28,10 @@
 * 
 * [23] [http://www.norcom.de/de/fachartikel/datenbanktechnologien-acid-base-cap-und-google-spanner](http://www.norcom.de/de/fachartikel/datenbanktechnologien-acid-base-cap-und-google-spanner) (abgerufen am 23.06.2017)
 * CAP
-* [24]
+* [24] [http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/CAP](http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/CAP) (abgerufen am 23.06.2017)
+* [25] [https://blog.codecentric.de/2011/08/grundlagen-cloud-computing-cap-theorem/](https://blog.codecentric.de/2011/08/grundlagen-cloud-computing-cap-theorem/) (abgerufen am 23.06.2017)
+* [26] [https://dzone.com/articles/better-explaining-cap-theorem](https://dzone.com/articles/better-explaining-cap-theorem) (abgerufen am 23.06.2017)
+* [27] [https://db-engines.com/de/article/CAP+Theorem](https://db-engines.com/de/article/CAP+Theorem) (abgerufen am 23.06.2017)
+* [28] [http://blog.nahurst.com/visual-guide-to-nosql-systems](http://blog.nahurst.com/visual-guide-to-nosql-systems) (abgerufen am 23.06.2017)
 * BASE
 * [XX]
