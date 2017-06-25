@@ -50,5 +50,21 @@
 * [41] [https://de.slideshare.net/j_singh/nosql-and-mapreduce](https://de.slideshare.net/j_singh/nosql-and-mapreduce) (abgerufen am 23.06.2017)
 * [42] Dean, Jeffrey; Ghemawat, Sanjay. "MapReduce: Simplified Data Processing on Large Clusters", Google, Inc. (2004)
 * [43] [https://db-engines.com/de/article/MapReduce](https://db-engines.com/de/article/MapReduce) (abgerufen am 23.06.2017)
-* [44]
-* [45]
+* All
+* [44] [https://dba.stackexchange.com/questions/52632/difference-between-sharding-and-replication-on-mongodb](https://dba.stackexchange.com/questions/52632/difference-between-sharding-and-replication-on-mongodb) (abgerufen am 24.06.2017)
+* [45] [http://blog.zuehlke.com/skalierung-von-datenbanken/](http://blog.zuehlke.com/skalierung-von-datenbanken/) (abgerufen am 24.06.2017)
+* [46] [https://www.quora.com/What-is-the-difference-between-replication-partitioning-clustering-and-sharding](https://www.quora.com/What-is-the-difference-between-replication-partitioning-clustering-and-sharding) (abgerufen am 24.06.2017)
+* [47] [https://www.gi.de/service/informatiklexikon/detailansicht/article/partitionierung-von-datenbanktabellen.html](https://www.gi.de/service/informatiklexikon/detailansicht/article/partitionierung-von-datenbanktabellen.html) (abgerufen am 24.06.2017)
+* Cluster
+* [XX] [https://www.techopedia.com/definition/17/clustering-databases](https://www.techopedia.com/definition/17/clustering-databases) (abgerufen am 24.06.2017)
+* [XX] [https://de.wikipedia.org/wiki/Rechnerverbund](https://de.wikipedia.org/wiki/Rechnerverbund) (abgerufen am 24.06.2017)
+* Replikation
+* [XX] [http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Replikation](http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Replikation) (abgerufen am 24.06.2017)
+* [XX] [http://www.itwissen.info/Replikation-replication.html](http://www.itwissen.info/Replikation-replication.html) (abgerufen am 24.06.2017)
+* [XX] [http://www.datenbanken-verstehen.de/lexikon/replication-server/](http://www.datenbanken-verstehen.de/lexikon/replication-server/) (abgerufen am 24.06.2017)
+* Sharding
+* [XX] [http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Sharding](http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Sharding) (abgerufen am 24.06.2017)
+* [XX] [https://db-engines.com/de/article/Sharding](https://db-engines.com/de/article/Sharding) (abgerufen am 24.06.2017)
+* [XX] [https://www.it-visions.de/glossar/alle/6301/Sharding.aspx](https://www.it-visions.de/glossar/alle/6301/Sharding.aspx) (abgerufen am 24.06.2017)
+* Hashing
+* [XX]
