@@ -2,13 +2,11 @@
 
 * [1] Meier, Andreas; Kaufmann, Michael. "SQL- & NoSQL-Datenbanken", Springer Vieweg. (2016)  
 * [2] Edlich, Stefan; Friedland, Achim; Hampe, Jens; Brauer, Benjamin; Brückner, Markus. "NoSQL Einstieg in die Welt nichtrelationaler Web 2.0 Datenbanken", Carl Hanser Verlag GmbH & Co. KG. (2011)  
-* Skalierung
 * [3] [http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Skalierbarkeit](http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Skalierbarkeit) (abgerufen am 22.06.2017)  
 * [4] [http://www.se.uni-hannover.de/pub/File/kurz-und-gut/ws2011-labor-restlab/RESTLab-Skalierbarkeit-Oliver-Beren-Kaul-kurz-und-gut.pdf](http://www.se.uni-hannover.de/pub/File/kurz-und-gut/ws2011-labor-restlab/RESTLab-Skalierbarkeit-Oliver-Beren-Kaul-kurz-und-gut.pdf) (abgerufen am 22.06.2017)  
 * [5] [https://de.wikipedia.org/wiki/Skalierbarkeit](https://de.wikipedia.org/wiki/Skalierbarkeit) (abgerufen am 22.06.2017)  
 * [6] [http://www.it-administrator.de/themen/server_client/fachartikel/204189.html](http://www.it-administrator.de/themen/server_client/fachartikel/204189.html) (abgerufen am 22.06.2017)  
 * [7] [http://habacht.blogspot.de/2007/11/das-uneindeutig-unklare-duo-scale-out.html](http://habacht.blogspot.de/2007/11/das-uneindeutig-unklare-duo-scale-out.html) (abgerufen am 22.06.2017)  
-* In-Memory
 * [8] [http://trends-in-der-it.de/?Fachartikel/In-Memory-_Technologie](http://trends-in-der-it.de/?Fachartikel/In-Memory-_Technologie) (abgerufen am 23.06.2017) 
 * [9] [http://www.datenbanken-verstehen.de/lexikon/in-memory-datenbank/](http://www.datenbanken-verstehen.de/lexikon/in-memory-datenbank/) (abgerufen am 23.06.2017)
 * [10] [http://winfwiki.wi-fom.de/index.php/Beschreibung_und_Einsatz_von_In-Memory-Computing#In-Memory-Datenbanken](http://winfwiki.wi-fom.de/index.php/Beschreibung_und_Einsatz_von_In-Memory-Computing#In-Memory-Datenbanken) (abgerufen am 23.06.2017)
@@ -45,21 +43,26 @@
 * [41] [https://de.slideshare.net/j_singh/nosql-and-mapreduce](https://de.slideshare.net/j_singh/nosql-and-mapreduce) (abgerufen am 23.06.2017)
 * [42] Dean, Jeffrey; Ghemawat, Sanjay. "MapReduce: Simplified Data Processing on Large Clusters", Google, Inc. (2004)
 * [43] [https://db-engines.com/de/article/MapReduce](https://db-engines.com/de/article/MapReduce) (abgerufen am 23.06.2017)
-* All
 * [44] [https://dba.stackexchange.com/questions/52632/difference-between-sharding-and-replication-on-mongodb](https://dba.stackexchange.com/questions/52632/difference-between-sharding-and-replication-on-mongodb) (abgerufen am 24.06.2017)
 * [45] [http://blog.zuehlke.com/skalierung-von-datenbanken/](http://blog.zuehlke.com/skalierung-von-datenbanken/) (abgerufen am 24.06.2017)
 * [46] [https://www.quora.com/What-is-the-difference-between-replication-partitioning-clustering-and-sharding](https://www.quora.com/What-is-the-difference-between-replication-partitioning-clustering-and-sharding) (abgerufen am 24.06.2017)
 * [47] [https://www.gi.de/service/informatiklexikon/detailansicht/article/partitionierung-von-datenbanktabellen.html](https://www.gi.de/service/informatiklexikon/detailansicht/article/partitionierung-von-datenbanktabellen.html) (abgerufen am 24.06.2017)
-* Cluster
 * [48] [https://www.techopedia.com/definition/17/clustering-databases](https://www.techopedia.com/definition/17/clustering-databases) (abgerufen am 24.06.2017)
 * [49] [https://de.wikipedia.org/wiki/Rechnerverbund](https://de.wikipedia.org/wiki/Rechnerverbund) (abgerufen am 24.06.2017)
-* Replikation
 * [50] [http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Replikation](http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Replikation) (abgerufen am 24.06.2017)
 * [51] [http://www.itwissen.info/Replikation-replication.html](http://www.itwissen.info/Replikation-replication.html) (abgerufen am 24.06.2017)
 * [52] [http://www.datenbanken-verstehen.de/lexikon/replication-server/](http://www.datenbanken-verstehen.de/lexikon/replication-server/) (abgerufen am 24.06.2017)
-* Sharding
 * [53] [http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Sharding](http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Sharding) (abgerufen am 24.06.2017)
 * [54] [https://db-engines.com/de/article/Sharding](https://db-engines.com/de/article/Sharding) (abgerufen am 24.06.2017)
 * [55] [https://www.it-visions.de/glossar/alle/6301/Sharding.aspx](https://www.it-visions.de/glossar/alle/6301/Sharding.aspx) (abgerufen am 24.06.2017)
-* Hashing
-* [56] 
+* [56] [https://www.toptal.com/big-data/consistent-hashing](https://www.toptal.com/big-data/consistent-hashing) (abgerufen am 25.06.2017)
+* [57] [http://theory.stanford.edu/~tim/s16/l/l1.pdf](http://theory.stanford.edu/~tim/s16/l/l1.pdf) (abgerufen am 25.06.2017)
+* [58] [https://en.wikipedia.org/wiki/Consistent_hashing](https://en.wikipedia.org/wiki/Consistent_hashing) (abgerufen am 25.06.2017)
+* [59] [https://de.wikipedia.org/wiki/Konsistente_Hashfunktion](https://de.wikipedia.org/wiki/Konsistente_Hashfunktion) (abgerufen am 25.06.2017)
+* [60] [http://www.paperplanes.de/2011/12/9/the-magic-of-consistent-hashing.html](http://www.paperplanes.de/2011/12/9/the-magic-of-consistent-hashing.html) (abgerufen am 25.06.2017)
+* [61] [http://www.mikeperham.com/2009/01/14/consistent-hashing-in-memcache-client/](http://www.mikeperham.com/2009/01/14/consistent-hashing-in-memcache-client/) (abgerufen am 25.06.2017)
+* [62] [http://www.tom-e-white.com/2007/11/consistent-hashing.html](http://www.tom-e-white.com/2007/11/consistent-hashing.html) (abgerufen am 25.06.2017)
+* [63] [http://www.tomkleinpeter.com/2008/03/17/programmers-toolbox-part-3-consistent-hashing/](http://www.tomkleinpeter.com/2008/03/17/programmers-toolbox-part-3-consistent-hashing/) (abgerufen am 25.06.2017)
+* [64] [http://michaelnielsen.org/blog/consistent-hashing/](http://michaelnielsen.org/blog/consistent-hashing/) (abgerufen am 25.06.2017)
+* [65] [http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/ConsistentHashing](http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/ConsistentHashing) (abgerufen am 25.06.2017)
+* [66]
