@@ -66,3 +66,8 @@
 * [64] [http://michaelnielsen.org/blog/consistent-hashing/](http://michaelnielsen.org/blog/consistent-hashing/) (abgerufen am 25.06.2017)
 * [65] [http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/ConsistentHashing](http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/ConsistentHashing) (abgerufen am 25.06.2017)
 * [66]
+
+##Verwendete Programme für die Abbildungen:
+
+* UMLet: [http://www.umlet.com/](http://www.umlet.com/)
+* Microsoft Word: [https://products.office.com/de-de/word](https://products.office.com/de-de/word)
