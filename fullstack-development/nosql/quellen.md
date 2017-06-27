@@ -65,7 +65,11 @@
 * [63] [http://www.tomkleinpeter.com/2008/03/17/programmers-toolbox-part-3-consistent-hashing/](http://www.tomkleinpeter.com/2008/03/17/programmers-toolbox-part-3-consistent-hashing/) (abgerufen am 25.06.2017)
 * [64] [http://michaelnielsen.org/blog/consistent-hashing/](http://michaelnielsen.org/blog/consistent-hashing/) (abgerufen am 25.06.2017)
 * [65] [http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/ConsistentHashing](http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/ConsistentHashing) (abgerufen am 25.06.2017)
-* [66]
+* [66] [http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.NoSQL](http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.NoSQL) (abgerufen am 27.06.2017)
+* [67] [http://www.datenbanken-verstehen.de/lexikon/nosql/](http://www.datenbanken-verstehen.de/lexikon/nosql/)
+* [68] [http://nosql-database.org/](http://nosql-database.org/) (abgerufen am 27.06.2017)
+* [69] [https://db-engines.com/de/article/NoSQL](https://db-engines.com/de/article/NoSQL) (abgerufen am 27.06.2017)
+* [70] 
 
 ##Verwendete Programme für die Abbildungen:
 

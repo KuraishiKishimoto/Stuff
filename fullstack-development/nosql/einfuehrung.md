@@ -1,6 +1,18 @@
 # Einführung
 
-//Todo: Einführung schreiben
+[1-2,12-14,66-69]  
+Mit dem Einzug des Internets in das allgemeine Leben entstanden auch neue Anforderungen bezüglich Datenbanken. Das Arbeiten mit enorm großen Datenmengen brachte viele Probleme mit sich, die meist von klassischen relationalen Datenbanken nicht gelöst werden konnten. Es entstanden daher viele neue Datenbanken, die sich in ihren Eigenschaften stark von den herkömmlichen relationalen Datenbanken abhoben, um diese Probleme zu lösen.  
+Diese Datenbanken werden heutzutage unter dem Begriff NoSQL Datenbanken zusammengefasst. Während dieser Begriff zwar schon 1998 genutzt wurde, um eine relationale Datenbank ohne SQL Zugriffsmöglichkeiten zu beschreiben ("No SQL"), wird der Begriff seit 2009 häufig als "Not only SQL" verstanden. NoSQL Datenbanken zeichnen sich häufig durch folgende Eigenschaften aus:
+
+* Das zugrundeliegende Datenmodell ist nicht relational.
+* Sie verteilen ihre Daten auf viele verschiedene Serverknoten und Knoten lassen sich zwecks Skalierung leicht hinzufügen/entfernen.
+* Es gibt nur eine schwache oder gar keine Schema-Restriktion.
+* Sehr einfache Replikation von Daten.
+* Es gibt eine einfache API.
+* Es wird nicht das klassische ACID Transaktionskonzept genutzt, sondern beispielsweise BASE.
+
+NoSQL Datenbanken bieten meist eine höhere Leistungsfähigkeit als relationale Datenbanken, sind durch schemafreie Datenstrukturen flexibler und dank verteilter und redundanter Datenhaltung ausfallsicherer.  
+In diesem Kapitel werden zunächst die Grundlegenden Begriff und Technologien beschrieben, die von NoSQL Datenbanken meist verwendet werden. Anschließend werden die wichtigsten verschiedenen NoSQL Arten beschrieben.
 
 ## ACID, BASE und das CAP-Theorem
 ### ACID [1-2,12-23]
@@ -25,10 +37,11 @@ Optimal wäre es, wenn alle drei Aspekte, Konsistenz, Verfügbarkeit und Ausfall
 Je nachdem welche zwei der drei Anforderungen an die Datenbank gestellt werden, werden diese Systeme als CA (Konsistenz und Verfügbarkeit), CP (Konsistenz und Ausfalltoleranz) oder AP (Verfügbarkeit und Ausfalltoleranz) Systeme bezeichnet. Da traditionelle relationale Datenbanksysteme wie bereits erwähnt meist die Konsistenz als oberstes Ziel haben, lassen sie sich als CA/CP Systeme bezeichnen. Viele NoSQL Datenbanksystem haben jedoch einen viel stärkeren Fokus auf die Verfügbarkeit oder Ausfalltoleranz, die Konsistenz spielt dabei keine so große Rolle. Für diese Systeme ist es ausreichend, wenn die Konsistenz der Daten nach einer Änderung erst im Laufe der Zeit wiederhergestellt ist.
 
 ### BASE [1-2,12-14,23,25,29-30]
-Diese Eigenschaft wird dabei auch häufig als BASE Model (Basically Available, Soft State, Eventually Consistent) bezeichnet. Bei BASE wird die Verfügbarkeit über die Konsistenz gestellt und es gilt des Öfteren als Gegenstück zu ACID.   
+Diese Eigenschaft wird dabei auch häufig als BASE Modell (Basically Available, Soft State, Eventually Consistent) bezeichnet. Bei BASE wird die Verfügbarkeit über die Konsistenz gestellt und es gilt des Öfteren als Gegenstück zu ACID.   
 Die Verfügbarkeit wird dabei beispielsweise durch eine große Anzahl an Knoten erreicht (Basically Available).  
 Eine Änderung der Daten in einem Knoten hat dabei nicht zur Folge, dass die Änderungen direkt allen anderen Knoten mitgeteilt wird, sondern nur schrittweise. Es kann somit passieren, dass zwei Nutzer beim Lesen derselben Daten zwei unterschiedliche Datenwerte erhalten (Soft State).   
 Irgendwann haben jedoch alle Knoten die Änderungen verarbeitet und die Datensätze sind wieder konsistent (Eventually Consistent).   
+Dieses Konsistenzmodell wird von vielen NoSQL Datenbanksystemen genutzt.
 
 ## Skalierung [2-7]
 Unter Skalieren versteht man die Eigenschaft eines Systems, sich an verändernde (meist wachsende) Ansprüche anzupassen. Im Bereich der Datenbanken kann beispielsweise der verfügbare Speicherplatz oder die Zugriffsgeschwindigkeit auf Daten eine Rolle spielen. Eine Verbesserung eines Systems kann dabei auf zwei verschiedene Arten erfolgen:  
