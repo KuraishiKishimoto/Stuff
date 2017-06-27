@@ -74,7 +74,7 @@ Um dieses Problem zu Umgehen wird das Consistent Hashing verwendet. Dabei wird e
 
 ![Consistent Hashing Anfang ](../../assets/nosql/consistent_hashing_beginn.png) 
 
-Fällt nun ein Serverknoten aus, so müssen nur die Datensätze verschoben werden, die bisher von ihm gehalten wurden. Diese werden dann vom nächsten Knoten im Uhrzeigersinn gehalten.
+Fällt nun ein Serverknoten aus, so müssen nur die Datensätze verschoben werden, die bisher von ihm gehalten wurden. Diese werden dann vom nächsten Knoten im Uhrzeigersinn gehalten. Alle anderen Datensätze müssen nicht neuverteilt werden und können weiterhin auf den bisherigen Knoten bleiben.
 
 ![Consistent Hashing Ausfall](../../assets/nosql/consistent_hashing_ausfall.png) 
 
@@ -82,7 +82,7 @@ Genauso verhält es sich, wenn ein neuer Knoten hinzugefügt wird. Der neue beko
 
 ![Consistent Hashing Hinzufuegen](../../assets/nosql/consistent_hashing_hinzufuegen.png) 
 
-Des Weiteren ist es Möglich virtuelle Serverknoten einzufügen, um eine bessere Lastverteilung zu erreichen. Gibt es beispielsweise einen Knoten, der leistungsstärker ist als die anderen, oder mehr Speicherplatz besitzt, so wird für ihn ein virtueller Serverknoten auf dem Ring platziert werden. Jeder Datensatz, der nun diesem virtuellen Serverknoten zugeordnet ist, wird auf dem Knoten gespeichert, zu dem der virtuelle gehört. In der folgenden Abbildung besitzt beispielsweise Server drei mehr Speicherplatz als die anderen. Dementsprechend wird ein virtueller Knoten für ihn auf dem Ring platziert, sodass nun mehr Datensätze auf dem dritten Server gespeichert werden.
+Des Weiteren ist es möglich, virtuelle Serverknoten einzufügen um eine bessere Lastverteilung zu erreichen. Gibt es beispielsweise einen Knoten, der leistungsstärker ist als die anderen, oder mehr Speicherplatz besitzt, so wird für ihn ein virtueller Serverknoten auf dem Ring platziert werden. Jeder Datensatz, der nun diesem virtuellen Serverknoten zugeordnet ist, wird auf dem Knoten gespeichert, zu dem der virtuelle gehört. In der folgenden Abbildung besitzt beispielsweise Server drei mehr Speicherplatz als die anderen. Dementsprechend wird ein virtueller Knoten für ihn auf dem Ring platziert, sodass nun mehr Datensätze auf dem dritten Server gespeichert werden.
 
 ![Consistent Hashing Lastverteilung](../../assets/nosql/consistent_hashing_lastverteilung.png) 
 
