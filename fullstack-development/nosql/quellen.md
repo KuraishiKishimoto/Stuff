@@ -71,7 +71,7 @@
 * [69] [https://db-engines.com/de/article/NoSQL](https://db-engines.com/de/article/NoSQL) (abgerufen am 27.06.2017)
 * [70] 
 
-##Verwendete Programme für die Abbildungen:
+## Verwendete Programme für die Abbildungen:
 
 * UMLet: [http://www.umlet.com/](http://www.umlet.com/)
 * Microsoft Word: [https://products.office.com/de-de/word](https://products.office.com/de-de/word)
