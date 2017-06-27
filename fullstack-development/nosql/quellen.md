@@ -16,7 +16,6 @@
 * [12] Celko, Joe. "Joe Celko’s Complete Guide to NoSQL", Elsevier Science. (2013)
 * [13] Vaish, Gaurav. "NoSQL Starter", Packt Publishing. (2013)
 * [14] Lake, Peter; Crowther, Paul. "Concise Guide to Databases", Springer Verlag. (2013)
-* ACID
 * [15] [https://www.bg.bib.de/portale/dab/Grundlagen/acid.html](https://www.bg.bib.de/portale/dab/Grundlagen/acid.html) (abgerufen am 23.06.2017)
 * [16] [http://www.itwissen.info/ACID-atomicity-consistency-isolation-durability-ACID-Paradigmen.html](http://www.itwissen.info/ACID-atomicity-consistency-isolation-durability-ACID-Paradigmen.html) (abgerufen am 23.06.2017)
 * [17] [http://www.dbs.ethz.ch/education/timi/WS_03_04/Vorlesungsunterlagen/1-Einfuehrung.pdf](http://www.dbs.ethz.ch/education/timi/WS_03_04/Vorlesungsunterlagen/1-Einfuehrung.pdf) (abgerufen am 23.06.2017)
@@ -25,18 +24,14 @@
 * [20] [https://dbs.uni-leipzig.de/buecher/DBSI-Buch/HTML/kap13-2.html](https://dbs.uni-leipzig.de/buecher/DBSI-Buch/HTML/kap13-2.html) (abgerufen am 23.06.2017)
 * [21] [http://www.searchenterprisesoftware.de/definition/AKID-ACID](http://www.searchenterprisesoftware.de/definition/AKID-ACID) (abgerufen am 23.06.2017)
 * [22] [https://db-engines.com/de/article/ACID](https://db-engines.com/de/article/ACID) (abgerufen am 23.06.2017)
-* 
 * [23] [http://www.norcom.de/de/fachartikel/datenbanktechnologien-acid-base-cap-und-google-spanner](http://www.norcom.de/de/fachartikel/datenbanktechnologien-acid-base-cap-und-google-spanner) (abgerufen am 23.06.2017)
-* CAP
 * [24] [http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/CAP](http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/CAP) (abgerufen am 23.06.2017)
 * [25] [https://blog.codecentric.de/2011/08/grundlagen-cloud-computing-cap-theorem/](https://blog.codecentric.de/2011/08/grundlagen-cloud-computing-cap-theorem/) (abgerufen am 23.06.2017)
 * [26] [https://dzone.com/articles/better-explaining-cap-theorem](https://dzone.com/articles/better-explaining-cap-theorem) (abgerufen am 23.06.2017)
 * [27] [https://db-engines.com/de/article/CAP+Theorem](https://db-engines.com/de/article/CAP+Theorem) (abgerufen am 23.06.2017)
 * [28] [http://blog.nahurst.com/visual-guide-to-nosql-systems](http://blog.nahurst.com/visual-guide-to-nosql-systems) (abgerufen am 23.06.2017)
-* BASE
 * [29] [http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.BASE](http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.BASE) (abgerufen am 23.06.2017)
 * [30] [https://db-engines.com/de/article/BASE](https://db-engines.com/de/article/BASE) (abgerufen am 23.06.2017)
-* Map-Reduce
 * [31] [http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/MapReduce](http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/MapReduce) (abgerufen am 23.06.2017)
 * [32] [https://en.wikipedia.org/wiki/MapReduce](https://en.wikipedia.org/wiki/MapReduce) (abgerufen am 23.06.2017)
 * [33] [https://de.wikipedia.org/wiki/MapReduce](https://de.wikipedia.org/wiki/MapReduce) (abgerufen am 23.06.2017)
@@ -56,15 +51,15 @@
 * [46] [https://www.quora.com/What-is-the-difference-between-replication-partitioning-clustering-and-sharding](https://www.quora.com/What-is-the-difference-between-replication-partitioning-clustering-and-sharding) (abgerufen am 24.06.2017)
 * [47] [https://www.gi.de/service/informatiklexikon/detailansicht/article/partitionierung-von-datenbanktabellen.html](https://www.gi.de/service/informatiklexikon/detailansicht/article/partitionierung-von-datenbanktabellen.html) (abgerufen am 24.06.2017)
 * Cluster
-* [XX] [https://www.techopedia.com/definition/17/clustering-databases](https://www.techopedia.com/definition/17/clustering-databases) (abgerufen am 24.06.2017)
-* [XX] [https://de.wikipedia.org/wiki/Rechnerverbund](https://de.wikipedia.org/wiki/Rechnerverbund) (abgerufen am 24.06.2017)
+* [48] [https://www.techopedia.com/definition/17/clustering-databases](https://www.techopedia.com/definition/17/clustering-databases) (abgerufen am 24.06.2017)
+* [49] [https://de.wikipedia.org/wiki/Rechnerverbund](https://de.wikipedia.org/wiki/Rechnerverbund) (abgerufen am 24.06.2017)
 * Replikation
-* [XX] [http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Replikation](http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Replikation) (abgerufen am 24.06.2017)
-* [XX] [http://www.itwissen.info/Replikation-replication.html](http://www.itwissen.info/Replikation-replication.html) (abgerufen am 24.06.2017)
-* [XX] [http://www.datenbanken-verstehen.de/lexikon/replication-server/](http://www.datenbanken-verstehen.de/lexikon/replication-server/) (abgerufen am 24.06.2017)
+* [50] [http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Replikation](http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Replikation) (abgerufen am 24.06.2017)
+* [51] [http://www.itwissen.info/Replikation-replication.html](http://www.itwissen.info/Replikation-replication.html) (abgerufen am 24.06.2017)
+* [52] [http://www.datenbanken-verstehen.de/lexikon/replication-server/](http://www.datenbanken-verstehen.de/lexikon/replication-server/) (abgerufen am 24.06.2017)
 * Sharding
-* [XX] [http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Sharding](http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Sharding) (abgerufen am 24.06.2017)
-* [XX] [https://db-engines.com/de/article/Sharding](https://db-engines.com/de/article/Sharding) (abgerufen am 24.06.2017)
-* [XX] [https://www.it-visions.de/glossar/alle/6301/Sharding.aspx](https://www.it-visions.de/glossar/alle/6301/Sharding.aspx) (abgerufen am 24.06.2017)
+* [53] [http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Sharding](http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Sharding) (abgerufen am 24.06.2017)
+* [54] [https://db-engines.com/de/article/Sharding](https://db-engines.com/de/article/Sharding) (abgerufen am 24.06.2017)
+* [55] [https://www.it-visions.de/glossar/alle/6301/Sharding.aspx](https://www.it-visions.de/glossar/alle/6301/Sharding.aspx) (abgerufen am 24.06.2017)
 * Hashing
-* [XX]
+* [56] 
