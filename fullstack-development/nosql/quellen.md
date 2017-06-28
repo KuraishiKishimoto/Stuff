@@ -69,7 +69,27 @@
 * [67] [http://www.datenbanken-verstehen.de/lexikon/nosql/](http://www.datenbanken-verstehen.de/lexikon/nosql/)
 * [68] [http://nosql-database.org/](http://nosql-database.org/) (abgerufen am 27.06.2017)
 * [69] [https://db-engines.com/de/article/NoSQL](https://db-engines.com/de/article/NoSQL) (abgerufen am 27.06.2017)
-* [70] 
+* Impedance Mismatch
+* [70] [http://www.agiledata.org/essays/impedanceMismatch.html](http://www.agiledata.org/essays/impedanceMismatch.html) (abgerufen am 28.06.2017)
+* [71] [http://www.odbms.org/wp-content/uploads/2013/11/023.01-Shusman-The-Impedance-Mismatch-2002.pdf](http://www.odbms.org/wp-content/uploads/2013/11/023.01-Shusman-The-Impedance-Mismatch-2002.pdf) (abgerufen am 28.06.2017)
+* Flavours Allgemein
+* [72] [https://dbs.uni-leipzig.de/file/seminar_1112_tran_ausarbeitung.pdf](https://dbs.uni-leipzig.de/file/seminar_1112_tran_ausarbeitung.pdf) (abgerufen am 28.06.2017)
+* Objektorientiert/Objektrelational
+* [73] [http://www.sts.tu-harburg.de/teaching/ws-98.99/DBIS/6-dbis.pdf](http://www.sts.tu-harburg.de/teaching/ws-98.99/DBIS/6-dbis.pdf) (abgerufen am 28.06.2017)
+* [74] [http://pi.informatik.uni-siegen.de/lehre/1999w/1999w_proseminar/ausarbeitungen/thema7/Objektrelationale_Datenbanken.pdf](http://pi.informatik.uni-siegen.de/lehre/1999w/1999w_proseminar/ausarbeitungen/thema7/Objektrelationale_Datenbanken.pdf) (abgerufen am 28.06.2017)
+* [75] [http://wwwbayer.in.tum.de/lehre/WS2001/DBS-kossmann/folienD.pdf](http://wwwbayer.in.tum.de/lehre/WS2001/DBS-kossmann/folienD.pdf) (abgerufen am 28.06.2017)
+* [76] [http://www.itwissen.info/Objektrelationale-Datenbank-object-relational-database-ORD.html](http://www.itwissen.info/Objektrelationale-Datenbank-object-relational-database-ORD.html) (abgerufen am 28.06.2017)
+* [77] [http://www.itwissen.info/Objektorientierte-Datenbank-object-oriented-database-OODB.html](http://www.itwissen.info/Objektorientierte-Datenbank-object-oriented-database-OODB.html) (abgerufen am 28.06.2017)
+* [78] [http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Objektdatenbank](http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Objektdatenbank) (abgerufen am 28.06.2017)
+* [79] [http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Objektrelationale-Datenbank](http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Objektrelationale-Datenbank) (abgerufen am 28.06.2017)
+* [80] [http://www.datenbanken-verstehen.de/datenbank-grundlagen/datenbankmodell/objektorientiertes-datenbankmodell/](http://www.datenbanken-verstehen.de/datenbank-grundlagen/datenbankmodell/objektorientiertes-datenbankmodell/) (abgerufen am 28.06.2017)
+* [81] [https://de.wikipedia.org/wiki/Objektdatenbank](https://de.wikipedia.org/wiki/Objektdatenbank) (abgerufen am 28.06.2017)
+* [82] [https://db.in.tum.de/~grust/teaching/ss06/DB2/db2-02.pdf](https://db.in.tum.de/~grust/teaching/ss06/DB2/db2-02.pdf) (abgerufen am 28.06.2017)
+* [83] [http://www-lehre.inf.uos.de/~dbs/2005/skript/node154.html](http://www-lehre.inf.uos.de/~dbs/2005/skript/node154.html) (abgerufen am 28.06.2017)
+* [84] [https://de.wikipedia.org/wiki/Objektrelationale_Datenbank](https://de.wikipedia.org/wiki/Objektrelationale_Datenbank) (abgerufen am 28.06.2017)
+* [85] [https://en.wikipedia.org/wiki/Object-relational_database](https://en.wikipedia.org/wiki/Object-relational_database) (abgerufen am 28.06.2017)
+* [86] [https://en.wikipedia.org/wiki/Object_database](https://en.wikipedia.org/wiki/Object_database) (abgerufen am 28.06.2017)
+* [XX]
 
 ## Verwendete Programme für die Abbildungen:
 
