@@ -89,7 +89,7 @@
 * [85] [https://en.wikipedia.org/wiki/Object-relational_database](https://en.wikipedia.org/wiki/Object-relational_database) (abgerufen am 28.06.2017)
 * [86] [https://en.wikipedia.org/wiki/Object_database](https://en.wikipedia.org/wiki/Object_database) (abgerufen am 28.06.2017)
 * [87] [https://db-engines.com/de/ranking/object+oriented+dbms](https://db-engines.com/de/ranking/object+oriented+dbms) (abgerufen am 28.06.2017)
-* [88] 
+* [88] [https://db-engines.com/de/ranking/relational+dbms](https://db-engines.com/de/ranking/relational+dbms) (abgerufen am 28.06.2017)
 
 ## Verwendete Programme für die Abbildungen:
 
