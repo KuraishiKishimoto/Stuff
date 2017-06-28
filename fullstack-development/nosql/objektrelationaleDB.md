@@ -2,7 +2,7 @@
 Neben den Objektorientierten Datenbanken gibt es auch die sogenannten objektrelationalen Datenbanken. Auch diese haben zum Ziel das Problem des Impedance Mismatch anzugehen, allerdings streben sie eher eine Verminderung statt vollständiger Beseitigung des Problems an. objektrelationale Datenbanken versuchen die Vorteile von relationalen und objektorientierten Datenbanken zu vereinen. Dazu verwenden sie das relationale Grundgerüst und erweitern es um objektorientierte Features. Als Abfragesprache wird weiterhin das bekannte SQL genutzt. Die Forschung an objektrelationalen Datenbanken begann Anfang der 90er Jahren, erste kommerzielle Produkte gab es gegen Ende der 90er. Ihre Entwicklung wurde durch den SQL:1999 Standard und seine Structured Types vorangetrieben, welche es ermöglichen eigene komplexe Datentypen in Datenbanken zu definieren. 
 
 ## Funktionsweise
-Objektrelationale Datenbanksysteme sind zum großteil bestehende relationale Datenbanksysteme, die zusätzlich manche der folgenden objektorientierten Eigenschaften bieten:
+Objektrelationale Datenbanksysteme sind zum Großteil bestehende relationale Datenbanksysteme, die zusätzlich manche der folgenden objektorientierten Eigenschaften bieten:
 
 * Komplexe Datentypen:  
 Neben den einfachen Datentypen wie Int und String sind auch komplexe wie Geldbeträge, Geometrie Daten und Dokumenttypen wie JSON und XML verwendbar.
