@@ -69,7 +69,6 @@
 * [67] [http://www.datenbanken-verstehen.de/lexikon/nosql/](http://www.datenbanken-verstehen.de/lexikon/nosql/)
 * [68] [http://nosql-database.org/](http://nosql-database.org/) (abgerufen am 27.06.2017)
 * [69] [https://db-engines.com/de/article/NoSQL](https://db-engines.com/de/article/NoSQL) (abgerufen am 27.06.2017)
-* Impedance Mismatch
 * [70] [http://www.agiledata.org/essays/impedanceMismatch.html](http://www.agiledata.org/essays/impedanceMismatch.html) (abgerufen am 28.06.2017)
 * [71] [http://www.odbms.org/wp-content/uploads/2013/11/023.01-Shusman-The-Impedance-Mismatch-2002.pdf](http://www.odbms.org/wp-content/uploads/2013/11/023.01-Shusman-The-Impedance-Mismatch-2002.pdf) (abgerufen am 28.06.2017)
 * Flavours Allgemein
@@ -90,6 +89,7 @@
 * [85] [https://en.wikipedia.org/wiki/Object-relational_database](https://en.wikipedia.org/wiki/Object-relational_database) (abgerufen am 28.06.2017)
 * [86] [https://en.wikipedia.org/wiki/Object_database](https://en.wikipedia.org/wiki/Object_database) (abgerufen am 28.06.2017)
 * [87] [https://db-engines.com/de/ranking/object+oriented+dbms](https://db-engines.com/de/ranking/object+oriented+dbms) (abgerufen am 28.06.2017)
+* [88] 
 
 ## Verwendete Programme für die Abbildungen:
 
