@@ -90,6 +90,16 @@
 * [86] [https://en.wikipedia.org/wiki/Object_database](https://en.wikipedia.org/wiki/Object_database) (abgerufen am 28.06.2017)
 * [87] [https://db-engines.com/de/ranking/object+oriented+dbms](https://db-engines.com/de/ranking/object+oriented+dbms) (abgerufen am 28.06.2017)
 * [88] [https://db-engines.com/de/ranking/relational+dbms](https://db-engines.com/de/ranking/relational+dbms) (abgerufen am 28.06.2017)
+* Graph-Datenbanken
+* [89] [https://db-engines.com/de/article/Graph+DBMS](https://db-engines.com/de/article/Graph+DBMS) (abgerufen am 29.06.2017)
+* [90] [http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Graphendatenbank](http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Graphendatenbank) (abgerufen am 29.06.2017)
+* [91] [http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Graphenmodell](http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Graphenmodell) (abgerufen am 29.06.2017)
+* [92] [https://en.wikipedia.org/wiki/Graph_database](https://en.wikipedia.org/wiki/Graph_database) (abgerufen am 29.06.2017)
+* [93] [https://de.wikipedia.org/wiki/Graphdatenbank](https://de.wikipedia.org/wiki/Graphdatenbank) (abgerufen am 29.06.2017)
+* [94] [http://www.datenbanken-verstehen.de/lexikon/graphdatenbanken/](http://www.datenbanken-verstehen.de/lexikon/graphdatenbanken/) (abgerufen am 29.06.2017)
+* [95] [http://www.itwissen.info/Graphen-Datenbank-graph-database.html](http://www.itwissen.info/Graphen-Datenbank-graph-database.html) (abgerufen am 29.06.2017)
+* [96] [https://neo4j.com/developer/graph-database/](https://neo4j.com/developer/graph-database/) (abgerufen am 29.06.2017)
+* [97] [https://db-engines.com/de/ranking/graph+dbms](https://db-engines.com/de/ranking/graph+dbms) (abgerufen am 29.06.2017)
 
 ## Verwendete Programme für die Abbildungen:
 
