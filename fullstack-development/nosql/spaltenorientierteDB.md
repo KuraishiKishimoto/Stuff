@@ -1,21 +1,21 @@
 # Spaltenorientierte Datenbanken [1-2,12-14,72,98-106]
 Spaltenorientierte Datenbanken (auch Wide-Column-Stores genannt) speichern ihre Daten, vereinfacht gesagt, nicht wie relationale Datenbanken in Zeilenform, sondern in Spaltenform. Eine relationale Datenbank würde Datensätze beispielsweise auf folgende Weise speichern:  
 
-1,Peter,40000  
-2,Maria,45000  
-3,Dieter,35000  
+1, Peter, 40000  
+2, Maria, 45000  
+3, Dieter, 35000  
 
 Der erste Wert stellt dabei eine ID dar, der zweite den Namen der Person und der dritte das Gehalt.  
 Eine spaltenorientierte Datenbank würde die gleichen Datensätze auf folgende Weise speichern:  
 
-1,2,3  
-Peter,Maria,Dieter  
-40000,45000,35000  
+1, 2, 3  
+Peter, Maria, Dieter  
+40000, 45000, 35000  
 
 Dies ist zwar nur ein sehr vereinfachtes Beispiel, da die tatsächliche Art der Speicherung von spaltenorientierten Datenbanken anders umgesetzt ist, es zeigt jedoch direkt den Nutzen einer solchen Form der Datenstrukturierung. Würde man beispielsweise das Durchschnittsgehalt aller Personen berechnen wollen, so wird bei relationalen Datenbanken zuerst der erste Datensatz ausgewählt werden und in diesem dann der dritte Wert, der das Gehalt beschreibt. Dasselbe müsste für den zweiten und dritten Datensatz geschehen. Bei spaltenorientierten Datenbanken müsste nur der dritte Datensatz ausgewählt und all seine Werte gelesen werden. Statt auf drei muss also nur auf ein Datensatz zugegriffen werden, was deutlich schneller ist.
 
 ## Funktionsweise
-Die tatsächliche Art der Speicherung der Daten unterscheidet sich teilweise bei den verschiedenen Anbietern. Im allgemeinen gibt es jedoch Spalten, die einen Namen besitzen, die Daten halten und einen Zeitstempel haben. Die Struktur einer Spalte ist in folgender Abbildung dargestellt [99].
+Die tatsächliche Art der Speicherung der Daten unterscheidet sich teilweise bei den verschiedenen Anbietern. Im Allgemeinen gibt es jedoch Spalten, die einen Namen besitzen, Daten halten und einen Zeitstempel haben. Die Struktur einer Spalte ist in folgender Abbildung dargestellt [99].
 
 ![Struktur einer Spalte](../../assets/nosql/spalten_struktur.png)  [99]  
 
