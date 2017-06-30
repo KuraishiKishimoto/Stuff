@@ -100,6 +100,17 @@
 * [95] [http://www.itwissen.info/Graphen-Datenbank-graph-database.html](http://www.itwissen.info/Graphen-Datenbank-graph-database.html) (abgerufen am 29.06.2017)
 * [96] [https://neo4j.com/developer/graph-database/](https://neo4j.com/developer/graph-database/) (abgerufen am 29.06.2017)
 * [97] [https://db-engines.com/de/ranking/graph+dbms](https://db-engines.com/de/ranking/graph+dbms) (abgerufen am 29.06.2017)
+* Spaltenorientierte Datenbanken
+* [98] [http://www.datenbanken-verstehen.de/lexikon/spaltenorientierte-datenbanken/](http://www.datenbanken-verstehen.de/lexikon/spaltenorientierte-datenbanken/) (abgerufen am 30.06.2017)
+* [99] [http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/SpaltenorientierteDatenbank](http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/SpaltenorientierteDatenbank) (abgerufen am 30.06.2017)
+* [100] [https://de.wikipedia.org/wiki/Spaltenorientierte_Datenbank](https://de.wikipedia.org/wiki/Spaltenorientierte_Datenbank) (abgerufen am 30.06.2017)
+* [101] [https://en.wikipedia.org/wiki/Column-oriented_DBMS](https://en.wikipedia.org/wiki/Column-oriented_DBMS) (abgerufen am 30.06.2017)
+* [102] [http://www.itwissen.info/columnar-database-Spaltenorientierte-Datenbank.html](http://www.itwissen.info/columnar-database-Spaltenorientierte-Datenbank.html) (abgerufen am 30.06.2017)
+* [103] [http://eliteinformatiker.de/2011/08/07/zeilenorientierte-und-spaltenorientierte-datenbanken](http://eliteinformatiker.de/2011/08/07/zeilenorientierte-und-spaltenorientierte-datenbanken) (abgerufen am 30.06.2017)
+* [104] [http://www.searchenterprisesoftware.de/definition/Spaltenorientierte-Datenbank](http://www.searchenterprisesoftware.de/definition/Spaltenorientierte-Datenbank) (abgerufen am 30.06.2017)
+* [105] [https://www.gi.de/service/informatiklexikon/detailansicht/article/spaltenorientierte-datenbanken.html](https://www.gi.de/service/informatiklexikon/detailansicht/article/spaltenorientierte-datenbanken.html) (abgerufen am 30.06.2017)
+* [106] [http://database.guide/what-is-a-column-store-database/](http://database.guide/what-is-a-column-store-database/) (abgerufen am 30.06.2017)
+* [107] [https://db-engines.com/de/ranking/wide+column+store](https://db-engines.com/de/ranking/wide+column+store) (abgerufen am 30.06.2017)
 
 ## Verwendete Programme für die Abbildungen:
 
