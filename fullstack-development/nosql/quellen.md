@@ -88,8 +88,8 @@
 * [84] [https://de.wikipedia.org/wiki/Objektrelationale_Datenbank](https://de.wikipedia.org/wiki/Objektrelationale_Datenbank) (abgerufen am 28.06.2017)
 * [85] [https://en.wikipedia.org/wiki/Object-relational_database](https://en.wikipedia.org/wiki/Object-relational_database) (abgerufen am 28.06.2017)
 * [86] [https://en.wikipedia.org/wiki/Object_database](https://en.wikipedia.org/wiki/Object_database) (abgerufen am 28.06.2017)
-* [87] [https://db-engines.com/de/ranking/object+oriented+dbms](https://db-engines.com/de/ranking/object+oriented+dbms) (abgerufen am 28.06.2017)
-* [88] [https://db-engines.com/de/ranking/relational+dbms](https://db-engines.com/de/ranking/relational+dbms) (abgerufen am 28.06.2017)
+* [87] [https://db-engines.com/de/ranking/object+oriented+dbms](https://db-engines.com/de/ranking/object+oriented+dbms) (abgerufen am 01.07.2017)
+* [88] [https://db-engines.com/de/ranking/relational+dbms](https://db-engines.com/de/ranking/relational+dbms) (abgerufen am 01.07.2017)
 * Graph-Datenbanken
 * [89] [https://db-engines.com/de/article/Graph+DBMS](https://db-engines.com/de/article/Graph+DBMS) (abgerufen am 29.06.2017)
 * [90] [http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Graphendatenbank](http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Graphendatenbank) (abgerufen am 29.06.2017)
@@ -99,7 +99,7 @@
 * [94] [http://www.datenbanken-verstehen.de/lexikon/graphdatenbanken/](http://www.datenbanken-verstehen.de/lexikon/graphdatenbanken/) (abgerufen am 29.06.2017)
 * [95] [http://www.itwissen.info/Graphen-Datenbank-graph-database.html](http://www.itwissen.info/Graphen-Datenbank-graph-database.html) (abgerufen am 29.06.2017)
 * [96] [https://neo4j.com/developer/graph-database/](https://neo4j.com/developer/graph-database/) (abgerufen am 29.06.2017)
-* [97] [https://db-engines.com/de/ranking/graph+dbms](https://db-engines.com/de/ranking/graph+dbms) (abgerufen am 29.06.2017)
+* [97] [https://db-engines.com/de/ranking/graph+dbms](https://db-engines.com/de/ranking/graph+dbms) (abgerufen am 01.07.2017)
 * Spaltenorientierte Datenbanken
 * [98] [http://www.datenbanken-verstehen.de/lexikon/spaltenorientierte-datenbanken/](http://www.datenbanken-verstehen.de/lexikon/spaltenorientierte-datenbanken/) (abgerufen am 30.06.2017)
 * [99] [http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/SpaltenorientierteDatenbank](http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/SpaltenorientierteDatenbank) (abgerufen am 30.06.2017)
@@ -110,7 +110,7 @@
 * [104] [http://www.searchenterprisesoftware.de/definition/Spaltenorientierte-Datenbank](http://www.searchenterprisesoftware.de/definition/Spaltenorientierte-Datenbank) (abgerufen am 30.06.2017)
 * [105] [https://www.gi.de/service/informatiklexikon/detailansicht/article/spaltenorientierte-datenbanken.html](https://www.gi.de/service/informatiklexikon/detailansicht/article/spaltenorientierte-datenbanken.html) (abgerufen am 30.06.2017)
 * [106] [http://database.guide/what-is-a-column-store-database/](http://database.guide/what-is-a-column-store-database/) (abgerufen am 30.06.2017)
-* [107] [https://db-engines.com/de/ranking/wide+column+store](https://db-engines.com/de/ranking/wide+column+store) (abgerufen am 30.06.2017)
+* [107] [https://db-engines.com/de/ranking/wide+column+store](https://db-engines.com/de/ranking/wide+column+store) (abgerufen am 01.07.2017)
 * Dokumentenorientierte Datenbanken
 * [108] [http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/DokumentenorientierteDatenbank](http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/DokumentenorientierteDatenbank) (abgerufen am 01.07.2017)
 * [109] [https://de.wikipedia.org/wiki/Dokumentenorientierte_Datenbank](https://de.wikipedia.org/wiki/Dokumentenorientierte_Datenbank) (abgerufen am 01.07.2017)
@@ -120,6 +120,9 @@
 * [113] [http://database.guide/what-is-a-document-store-database/](http://database.guide/what-is-a-document-store-database/) (abgerufen am 01.07.2017)
 * [114] [http://insights.dice.com/2012/06/04/nosql-document-storage-benefits-drawbacks/](http://insights.dice.com/2012/06/04/nosql-document-storage-benefits-drawbacks/) (abgerufen am 01.07.2017)
 * [115] [https://db-engines.com/de/ranking/document+store](https://db-engines.com/de/ranking/document+store) (abgerufen am 01.07.2017)
+* Key-Value
+* [XX]
+* [XX] [https://db-engines.com/de/ranking/key-value+store](https://db-engines.com/de/ranking/key-value+store) (abgerufen am 01.07.2017)
 
 ## Verwendete Programme für die Abbildungen:
 

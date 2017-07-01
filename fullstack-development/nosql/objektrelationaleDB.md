@@ -26,8 +26,8 @@ Der Vorteil objektrelationaler Datenbanken ist, dass das Impedance Mismatch verr
 Ein großer Nachteil der objektrelationalen Datenbanken ist der große Unterschied zwischen den einzelnen Anbietern. Nicht alle objektorientierten Features werden immer umgesetzt und auch generell gibt es große Unterschiede in der Umsetzung. Während Oracle beispielsweise fast alle objektorientierten Features umsetzt, bietet der Microsoft SQL Server nur benutzerdefinierte Datentypen an. Das Wechseln auf ein anderes objektrelationales Datenbankmanagementsystem ist daher in vielen Fällen nur schwer oder gar nicht möglich.
 
 ## Anbieter [88]
-Die am häufigsten genutzten relationalen Datenbanken mit objektorientierten Features laut db-engines.com (Stand Juni 2017)
+Die am häufigsten genutzten relationalen Datenbanken mit objektorientierten Features laut db-engines.com (Stand Juli 2017)
 
-* Oracle: 1351,76 Punkte
-* Microsoft SQL Server: 1198,97 Punkte 
-* PostgreSQL: 368,54 Punkte
+* Oracle: 1374,88 Punkte
+* Microsoft SQL Server: 1226,00 Punkte 
+* PostgreSQL: 369,44 Punkte

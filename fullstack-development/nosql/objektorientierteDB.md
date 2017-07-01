@@ -15,8 +15,8 @@ Durch die komplette Speicherung der Daten als Objekte gemäß der Objektorientie
 Der größte Nachteil objektorientierter Datenbanken ist ihre Verbreitung, bzw. das Fehlen davon. Obwohl die Entwicklung dieser Datenbanken bereits seit den 80er Jahren stattfindet, werden sie nicht sehr häufig genutzt und es gibt nur wenige Anbieter. Bedingt dadurch sind sie auch meist nicht so ausgereift, wie die älteren relationalen Datenbanken. Ihre Performance beim Arbeiten mit großen aber einfachen Datenmengen liegt deutlich unter der von relationalen Datenbanken. 
 
 ## Anbieter [87]
-Die am häufigsten genutzten Objektorientierten Datenbanken laut db-engines.com (Stand Juni 2017)
+Die am häufigsten genutzten Objektorientierten Datenbanken laut db-engines.com (Stand Juli 2017)
 
-* Caché: 2,98 Punkte
-* Db40: 1,40 Punkte
+* Caché: 2,72 Punkte
+* Db40: 1,42 Punkte
 * ObjectStore: 1,10 Punkte

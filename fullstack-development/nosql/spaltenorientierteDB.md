@@ -32,8 +32,8 @@ Wie bereits durch das Beispiel deutlich wurde, sind spaltenorientierte Datenbank
 Der Nachteil dieser Datenbanken ist jedoch, dass Zugriffe auf alle Attribute eines Objekts, also eine Zeile, dementsprechend deutlich langsamer sind. Das Hinzufügen neuer Datensätze, beispielsweise ein neuer Mitarbeiter, ist bei spaltenorientierten Datenbanken deutlich weniger effizient als bei relationalen Datenbanken. 
 
 ## Anbieter [107]
-Die am häufigsten genutzten Spaltenorientierten Datenbanken laut db-engines.com (Stand Juni 2017)
+Die am häufigsten genutzten Spaltenorientierten Datenbanken laut db-engines.com (Stand Juli 2017)
 
 * Cassandra: 124,12 Punkte
-* HBase: 61,87 Punkte
-* Microsoft Azure Cosmos DB: 6,38 Punkte
+* HBase: 63,62 Punkte
+* Microsoft Azure Cosmos DB: 7,71 Punkte

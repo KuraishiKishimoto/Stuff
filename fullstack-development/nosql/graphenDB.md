@@ -16,8 +16,8 @@ Der größte Vorteil dieser Datenbanken besteht in ihrem speziellen Einsatzgebie
 Ihre Spezialisierung auf Graphen ist allerdings auch ihr größter Nachteil. Sie eignen sich nicht dafür große Datensätze mit keinen oder wenigen Beziehungen untereinander zu verwalten, relationale Datenbanken können mit diesen Daten meist schneller und effizienter umgehen. Des Weiteren existieren noch keine standardisierte Abfragesprache, jeder Anbieter hat hier meist eigene Lösungen, was es nicht einfach macht, einen Anbieter zu wechseln.
 
 ## Anbieter [97]
-Die am häufigsten genutzten Graphen Datenbanken laut db-engines.com (Stand Juni 2017)
+Die am häufigsten genutzten Graphen Datenbanken laut db-engines.com (Stand Juli 2017)
 
-* Neo4j: 37,87 Punkte
-* Microsoft Azure Cosmos DB: 6,38 Punkte
-* OrientDB: 5,81 Punkte
+* Neo4j: 38,52 Punkte
+* Microsoft Azure Cosmos DB: 7,71 Punkte
+* OrientDB: 5,57 Punkte
