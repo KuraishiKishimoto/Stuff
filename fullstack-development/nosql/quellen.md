@@ -111,6 +111,15 @@
 * [105] [https://www.gi.de/service/informatiklexikon/detailansicht/article/spaltenorientierte-datenbanken.html](https://www.gi.de/service/informatiklexikon/detailansicht/article/spaltenorientierte-datenbanken.html) (abgerufen am 30.06.2017)
 * [106] [http://database.guide/what-is-a-column-store-database/](http://database.guide/what-is-a-column-store-database/) (abgerufen am 30.06.2017)
 * [107] [https://db-engines.com/de/ranking/wide+column+store](https://db-engines.com/de/ranking/wide+column+store) (abgerufen am 30.06.2017)
+* Dokumentenorientierte Datenbanken
+* [108] [http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/DokumentenorientierteDatenbank](http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/DokumentenorientierteDatenbank) (abgerufen am 01.07.2017)
+* [109] [http://www.datenbanken-verstehen.de/lexikon/xml-datenbank/](http://www.datenbanken-verstehen.de/lexikon/xml-datenbank/) (abgerufen am 01.07.2017)
+* [110] [https://de.wikipedia.org/wiki/Dokumentenorientierte_Datenbank](https://de.wikipedia.org/wiki/Dokumentenorientierte_Datenbank) (abgerufen am 01.07.2017)
+* [111] [https://en.wikipedia.org/wiki/Document-oriented_database](https://en.wikipedia.org/wiki/Document-oriented_database) (abgerufen am 01.07.2017)
+* [112] [http://eliteinformatiker.de/2011/05/18/nosql-document-store-couchdb-mongodb](http://eliteinformatiker.de/2011/05/18/nosql-document-store-couchdb-mongodb) (abgerufen am 01.07.2017)
+* [113] [https://db-engines.com/de/article/Document+Stores](https://db-engines.com/de/article/Document+Stores) (abgerufen am 01.07.2017)
+* [114] [http://database.guide/what-is-a-document-store-database/](http://database.guide/what-is-a-document-store-database/) (abgerufen am 01.07.2017)
+* [115] [https://db-engines.com/de/ranking/document+store](https://db-engines.com/de/ranking/document+store) (abgerufen am 01.07.2017)
 
 ## Verwendete Programme für die Abbildungen:
 
