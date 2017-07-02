@@ -71,9 +71,7 @@
 * [69] [https://db-engines.com/de/article/NoSQL](https://db-engines.com/de/article/NoSQL) (abgerufen am 27.06.2017)
 * [70] [http://www.agiledata.org/essays/impedanceMismatch.html](http://www.agiledata.org/essays/impedanceMismatch.html) (abgerufen am 28.06.2017)
 * [71] [http://www.odbms.org/wp-content/uploads/2013/11/023.01-Shusman-The-Impedance-Mismatch-2002.pdf](http://www.odbms.org/wp-content/uploads/2013/11/023.01-Shusman-The-Impedance-Mismatch-2002.pdf) (abgerufen am 28.06.2017)
-* Flavours Allgemein
 * [72] [https://dbs.uni-leipzig.de/file/seminar_1112_tran_ausarbeitung.pdf](https://dbs.uni-leipzig.de/file/seminar_1112_tran_ausarbeitung.pdf) (abgerufen am 28.06.2017)
-* Objektorientiert/Objektrelational
 * [73] [http://www.sts.tu-harburg.de/teaching/ws-98.99/DBIS/6-dbis.pdf](http://www.sts.tu-harburg.de/teaching/ws-98.99/DBIS/6-dbis.pdf) (abgerufen am 28.06.2017)
 * [74] [http://pi.informatik.uni-siegen.de/lehre/1999w/1999w_proseminar/ausarbeitungen/thema7/Objektrelationale_Datenbanken.pdf](http://pi.informatik.uni-siegen.de/lehre/1999w/1999w_proseminar/ausarbeitungen/thema7/Objektrelationale_Datenbanken.pdf) (abgerufen am 28.06.2017)
 * [75] [http://wwwbayer.in.tum.de/lehre/WS2001/DBS-kossmann/folienD.pdf](http://wwwbayer.in.tum.de/lehre/WS2001/DBS-kossmann/folienD.pdf) (abgerufen am 28.06.2017)
@@ -90,7 +88,6 @@
 * [86] [https://en.wikipedia.org/wiki/Object_database](https://en.wikipedia.org/wiki/Object_database) (abgerufen am 28.06.2017)
 * [87] [https://db-engines.com/de/ranking/object+oriented+dbms](https://db-engines.com/de/ranking/object+oriented+dbms) (abgerufen am 01.07.2017)
 * [88] [https://db-engines.com/de/ranking/relational+dbms](https://db-engines.com/de/ranking/relational+dbms) (abgerufen am 01.07.2017)
-* Graph-Datenbanken
 * [89] [https://db-engines.com/de/article/Graph+DBMS](https://db-engines.com/de/article/Graph+DBMS) (abgerufen am 29.06.2017)
 * [90] [http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Graphendatenbank](http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Graphendatenbank) (abgerufen am 29.06.2017)
 * [91] [http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Graphenmodell](http://lwibs01.gm.fh-koeln.de/wikis/wiki_db/index.php?n=Datenbanken.Graphenmodell) (abgerufen am 29.06.2017)
@@ -100,7 +97,6 @@
 * [95] [http://www.itwissen.info/Graphen-Datenbank-graph-database.html](http://www.itwissen.info/Graphen-Datenbank-graph-database.html) (abgerufen am 29.06.2017)
 * [96] [https://neo4j.com/developer/graph-database/](https://neo4j.com/developer/graph-database/) (abgerufen am 29.06.2017)
 * [97] [https://db-engines.com/de/ranking/graph+dbms](https://db-engines.com/de/ranking/graph+dbms) (abgerufen am 01.07.2017)
-* Spaltenorientierte Datenbanken
 * [98] [http://www.datenbanken-verstehen.de/lexikon/spaltenorientierte-datenbanken/](http://www.datenbanken-verstehen.de/lexikon/spaltenorientierte-datenbanken/) (abgerufen am 30.06.2017)
 * [99] [http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/SpaltenorientierteDatenbank](http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/SpaltenorientierteDatenbank) (abgerufen am 30.06.2017)
 * [100] [https://de.wikipedia.org/wiki/Spaltenorientierte_Datenbank](https://de.wikipedia.org/wiki/Spaltenorientierte_Datenbank) (abgerufen am 30.06.2017)
@@ -111,7 +107,6 @@
 * [105] [https://www.gi.de/service/informatiklexikon/detailansicht/article/spaltenorientierte-datenbanken.html](https://www.gi.de/service/informatiklexikon/detailansicht/article/spaltenorientierte-datenbanken.html) (abgerufen am 30.06.2017)
 * [106] [http://database.guide/what-is-a-column-store-database/](http://database.guide/what-is-a-column-store-database/) (abgerufen am 30.06.2017)
 * [107] [https://db-engines.com/de/ranking/wide+column+store](https://db-engines.com/de/ranking/wide+column+store) (abgerufen am 01.07.2017)
-* Dokumentenorientierte Datenbanken
 * [108] [http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/DokumentenorientierteDatenbank](http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/DokumentenorientierteDatenbank) (abgerufen am 01.07.2017)
 * [109] [https://de.wikipedia.org/wiki/Dokumentenorientierte_Datenbank](https://de.wikipedia.org/wiki/Dokumentenorientierte_Datenbank) (abgerufen am 01.07.2017)
 * [110] [https://en.wikipedia.org/wiki/Document-oriented_database](https://en.wikipedia.org/wiki/Document-oriented_database) (abgerufen am 01.07.2017)
@@ -120,7 +115,6 @@
 * [113] [http://database.guide/what-is-a-document-store-database/](http://database.guide/what-is-a-document-store-database/) (abgerufen am 01.07.2017)
 * [114] [http://insights.dice.com/2012/06/04/nosql-document-storage-benefits-drawbacks/](http://insights.dice.com/2012/06/04/nosql-document-storage-benefits-drawbacks/) (abgerufen am 01.07.2017)
 * [115] [https://db-engines.com/de/ranking/document+store](https://db-engines.com/de/ranking/document+store) (abgerufen am 01.07.2017)
-* Key-Value
 * [116] [http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/KeyValueSysteme](http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/KeyValueSysteme) (abgerufen am 02.07.2017)
 * [117] [https://de.wikipedia.org/wiki/Schl%C3%BCssel-Werte-Datenbank](https://de.wikipedia.org/wiki/Schl%C3%BCssel-Werte-Datenbank) (abgerufen am 02.07.2017)
 * [118] [https://en.wikipedia.org/wiki/Key-value_database](https://en.wikipedia.org/wiki/Key-value_database) (abgerufen am 02.07.2017)
