@@ -1,4 +1,4 @@
-# Objektorientierte Datenbanken (vgl. [1-2,14,72-86])
+# Objektorientierte Datenbanken (vgl. [2 Kap. 8.5],[14 Kap. 2.11,7],[72-86])
 Heutzutage werden sehr viele Programme mit dem Konzept der Objektorientierung programmiert, bekannte Sprachen sind dabei beispielsweise Java und C#. Daten werden dabei als Objekte betrachtet, mit denen gearbeitet werden kann. Relationale Datenbanken haben jedoch keine Möglichkeit diese Objekte einfach so zu speichern, da diese immer mit Tabellen arbeiten. Dieses Problem wird als Impedance Mismatch bezeichnet.
 
 ## Impedance Mismatch (vgl. [70-71])

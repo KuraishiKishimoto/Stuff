@@ -1,4 +1,4 @@
-# Graphen Datenbanken (vgl. [1-2,12-13,72,89-96])
+# Graphen Datenbanken (vgl. [1 Kap. 1.4,2.4,7.6],[2 Kap. 6],[12 Kap. 3],[13 Kap. 3],72,89-96])
 Graphen Datenbanken eignen sich dafür, Objekte und ihre komplexen Beziehungen untereinander zu speichern und zu verwalten. Die Daten werden dabei als Graphen gespeichert, Objekte werden als Knoten realisiert, Beziehungen über Kanten dargestellt. Sie eignen sich daher besonders gut für Daten mit sehr vielen Beziehungen und bei Graphen theoretischen Problemen. Anwendungsfälle sind beispielsweise Soziale Netzwerke, Empfehlungssysteme und Geoinformationssysteme.
 
 ## Funktionsweise

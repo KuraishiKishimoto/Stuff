@@ -1,4 +1,4 @@
-# Dokumentenorientierte Datenbanken (vgl. [1-2,13-14,72,108-114])
+# Dokumentenorientierte Datenbanken (vgl. [1 Kap. 7.4],[2 Kap. 4],[13 Kap. 3],[14 Kap. 5.8],[72,108-114])
 Diese Art der NoSQL Datenbanken speichern ihre Daten in Dokumenten ab, beispielsweise in Form von JSON, XML aber auch in beliebig anderer Form. Dabei sind diese Dokumente Schemafrei, das heißt es existieren keine Regeln nach denen der Inhalt dieser Dokumente aufgebaut werden muss. Jedes einzelne Dokument ist also in der Lage, einen völlig anderen Inhalt zu speichern. Häufig werden diese Datenbanken im Bereich der Web-Applikationen verwendet und bei unstrukturierten Daten.
 
 ## Funktionsweise
