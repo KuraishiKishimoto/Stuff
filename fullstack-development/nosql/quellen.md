@@ -121,8 +121,14 @@
 * [114] [http://insights.dice.com/2012/06/04/nosql-document-storage-benefits-drawbacks/](http://insights.dice.com/2012/06/04/nosql-document-storage-benefits-drawbacks/) (abgerufen am 01.07.2017)
 * [115] [https://db-engines.com/de/ranking/document+store](https://db-engines.com/de/ranking/document+store) (abgerufen am 01.07.2017)
 * Key-Value
-* [XX]
-* [XX] [https://db-engines.com/de/ranking/key-value+store](https://db-engines.com/de/ranking/key-value+store) (abgerufen am 01.07.2017)
+* [116] [http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/KeyValueSysteme](http://wikis.gm.fh-koeln.de/wiki_db/Datenbanken/KeyValueSysteme) (abgerufen am 02.07.2017)
+* [117] [https://de.wikipedia.org/wiki/Schl%C3%BCssel-Werte-Datenbank](https://de.wikipedia.org/wiki/Schl%C3%BCssel-Werte-Datenbank) (abgerufen am 02.07.2017)
+* [118] [https://en.wikipedia.org/wiki/Key-value_database](https://en.wikipedia.org/wiki/Key-value_database) (abgerufen am 02.07.2017)
+* [119] [http://www.datenbanken-verstehen.de/lexikon/key-value-datenbanksysteme/](http://www.datenbanken-verstehen.de/lexikon/key-value-datenbanksysteme/) (abgerufen am 02.07.2017)
+* [120] [https://db-engines.com/de/article/Key-Value+Stores](https://db-engines.com/de/article/Key-Value+Stores) (abgerufen am 02.07.2017)
+* [121] [http://eliteinformatiker.de/2011/06/01/nosql-key-value-datenbanken-memcachedb-project-voldemort-redis](http://eliteinformatiker.de/2011/06/01/nosql-key-value-datenbanken-memcachedb-project-voldemort-redis) (abgerufen am 02.07.2017)
+* [122] [http://database.guide/what-is-a-key-value-database/](http://database.guide/what-is-a-key-value-database/) (abgerufen am 02.07.2017)
+* [123] [https://db-engines.com/de/ranking/key-value+store](https://db-engines.com/de/ranking/key-value+store) (abgerufen am 01.07.2017)
 
 ## Verwendete Programme für die Abbildungen:
 
