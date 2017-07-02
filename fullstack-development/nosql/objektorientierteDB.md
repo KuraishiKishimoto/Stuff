@@ -1,7 +1,7 @@
-# Objektorientierte Datenbanken [1-2,14,72-86]
+# Objektorientierte Datenbanken (vgl. [1-2,14,72-86])
 Heutzutage werden sehr viele Programme mit dem Konzept der Objektorientierung programmiert, bekannte Sprachen sind dabei beispielsweise Java und C#. Daten werden dabei als Objekte betrachtet, mit denen gearbeitet werden kann. Relationale Datenbanken haben jedoch keine Möglichkeit diese Objekte einfach so zu speichern, da diese immer mit Tabellen arbeiten. Dieses Problem wird als Impedance Mismatch bezeichnet.
 
-## Impedance Mismatch [70-71]
+## Impedance Mismatch (vgl. [70-71])
 Impedance Mismatch (zu Deutsch: Objektrelationale Unverträglichkeit) beschreibt die Unverträglichkeit zwischen dem objektorientiertem und dem relationalen Modell. Die Probleme sind dabei einerseits Unterschiede zwischen den Datentypen einer Datenbank und einer Programmiersprache. Der Datentyp String kann beispielsweise in einer Datenbank anders aufgebaut sein als in einer Programmiersprache und eventuell Beschränkungen in der Länge haben. Andererseits sind es vor allem die Unterschiede in den Datenstrukturen an sich. Objekte sind anders aufgebaut als Tabellen. Häufig müssen Daten von Objekten in verschiedene Tabellen aufgeteilt werden. Des Weiteren ist es nicht möglich objektorientierte Eigenschaften wie Vererbung, Objektidentität und das Objektverhalten in einer Relation zu speichern
 
 ## Funktionsweise

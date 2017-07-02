@@ -1,4 +1,4 @@
-# Spaltenorientierte Datenbanken [1-2,12-14,72,98-106]
+# Spaltenorientierte Datenbanken (vgl. [1-2,12-14,72,98-106])
 Spaltenorientierte Datenbanken (auch Wide-Column-Stores genannt) speichern ihre Daten, vereinfacht gesagt, nicht wie relationale Datenbanken in Zeilenform, sondern in Spaltenform. Eine relationale Datenbank würde Datensätze beispielsweise auf folgende Weise speichern:  
 
 1, Peter, 40000  

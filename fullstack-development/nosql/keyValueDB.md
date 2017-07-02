@@ -1,4 +1,4 @@
-# Key-Value Datenbanken [1-2,12-13,72,116-123]
+# Key-Value Datenbanken (vgl. [1-2,12-13,72,116-123])
 Key-Value Datenbanken existieren schon seit den 70er Jahren und gehören somit zu den ältesten NoSQL Datenbanken. Durch das Internet und der damit einhergehenden Notwendigkeit mit extrem große Datenmengen arbeiten zu können, haben diese Datenbanken einen neuen Aufschwung erlebt. Sie speichern ihre Daten in Form von Schlüssel-Wert Paaren, eine sehr einfache, aber dadurch auch sehr effiziente Form der Datenverwaltung. 
 
 ## Funktionsweise
